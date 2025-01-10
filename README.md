@@ -1,7 +1,7 @@
 # Tokyo Rental Rate Forecasting
 
 ## Project Overview
-This project predicts rental rates for residential properties along Tokyo's Odakyu Line using machine learning. The model analyzes property features like proximity to train stations, building age, and square footage to provide actionable insights for renters, investors, and property managers.
+This project, developed in Summer 2024, predicts rental rates for residential properties along Tokyo’s Odakyu Line using machine learning. The model analyzes property features like proximity to train stations, building age, and square footage to provide actionable insights for renters, investors, and property managers.
 
 ---
 
