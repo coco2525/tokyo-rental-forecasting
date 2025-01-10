@@ -1,0 +1,777 @@
+room_type,category,street,city,prefecture,cost,size,deposit,key_money,floor,year,station,minute
+2LDK,Apartment,Shinjuku,Shinjuku-ku,Tokyo,552000.0,84.75,1104000.0,0.0,9.0,2011,Higashi-Shinjuku,2.0
+1R,Apartment,Daizawa,Setagaya-ku,Tokyo,59000.0,15.28,0.0,0.0,1.0,1969,Ikenoue,8.0
+1K,Apartment,Soshigaya,Setagaya-ku,Tokyo,63000.0,17.0,0.0,0.0,2.0,1996,Soshigaya Okura,7.0
+1R,Apartment,Daita,Setagaya-ku,Tokyo,58000.0,11.4,55000.0,0.0,2.0,1989,Shindaita,2.0
+1LDK,Apartment,Seijo,Setagaya-ku,Tokyo,212000.0,43.33,0.0,0.0,3.0,2023,Seijougakuen Mae,7.0
+1K,Apartment,Iwado kita,Komae-shi,Tokyo,48000.0,19.5,0.0,0.0,3.0,1988,Komae,9.0
+3LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,1200000.0,124.72,0.0,0.0,8.0,2018,Yoyogi-koen,7.0
+1R,Apartment,Chitosedai,Setagaya-ku,Tokyo,91000.0,20.72,0.0,80000.0,3.0,1992,Chitosefunabashi,9.0
+1K,Apartment,Soshigaya,Setagaya-ku,Tokyo,63000.0,17.0,0.0,0.0,2.0,1996,Soshigaya Okura,6.0
+2LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,580000.0,72.0,1160000.0,580000.0,3.0,2023,Yoyogi-koen,6.0
+1R,Apartment,Uehara,Shibuya-ku,Tokyo,155000.0,41.2,145000.0,145000.0,1.0,1994,Higashikitazawa,5.0
+2LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,380000.0,56.89,365000.0,365000.0,4.0,2018,Yoyogi-koen,8.0
+1LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,275000.0,40.9,470000.0,0.0,3.0,2024,Nishi-shinjuku,3.0
+1R,Apartment,Daita,Setagaya-ku,Tokyo,69000.0,19.76,0.0,0.0,4.0,1991,Shindaita,2.0
+2DK,Apartment,Iwado kita,Komae-shi,Tokyo,108000.0,41.41,105000.0,105000.0,3.0,1994,Kitami,10.0
+2DK,Apartment,Hanegi,Setagaya-ku,Tokyo,98000.0,40.0,93000.0,0.0,3.0,1975,Shindaita,3.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,63000.0,12.68,63000.0,0.0,3.0,1985,Sangubashi,7.0
+1K,Apartment,Tamagawagakuen,Machida-shi,Tokyo,58550.0,26.08,0.0,0.0,2.0,2004,Tamagawagakuen Mae,7.0
+3LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,190000.0,57.4,380000.0,0.0,2.0,1971,Minami Shinjuku,2.0
+1K,Apartment,Sasazuka,Shibuya-ku,Tokyo,80000.0,18.09,72000.0,0.0,2.0,1995,Sasazuka,3.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,240000.0,38.31,0.0,0.0,3.0,2004,Yoyogi-koen,4.0
+1R,Apartment,Kitazawa,Setagaya-ku,Tokyo,87000.0,25.0,87000.0,87000.0,1.0,1992,Ikenoue,2.0
+1R,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,134000.0,38.86,124000.0,0.0,1.0,1981,Yoyogi-koen,8.0
+2LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,498000.0,77.93,996000.0,498000.0,28.0,2017,Nishishinjuku Go Choume,7.0
+1R,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,72000.0,18.27,0.0,0.0,10.0,1981,Shinjuku,8.0
+1K,Apartment,Tomigaya,Shibuya-ku,Tokyo,278300.0,34.83,0.0,278300.0,1.0,2023,Yoyogi-koen,3.0
+1K,Apartment,Taishido,Setagaya-ku,Tokyo,67000.0,21.52,65000.0,0.0,1.0,1992,Sangenjaya,9.0
+2DK,Apartment,Oyamacho,Shibuya-ku,Tokyo,104000.0,36.36,102000.0,0.0,1.0,1981,Yoyogi-uehara,7.0
+1K,Apartment,Tsurukawa,Machida-shi,Tokyo,43550.0,19.87,0.0,0.0,1.0,2005,Tsurukawa,6.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,189000.0,33.79,0.0,0.0,1.0,2024,Minami Shinjuku,2.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,149000.0,25.72,139000.0,139000.0,4.0,2006,Yoyogi,3.0
+1LDK,Apartment,Shinjuku,Shinjuku-ku,Tokyo,195000.0,40.61,0.0,187000.0,9.0,2017,Higashi-Shinjuku,6.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,248000.0,59.71,238000.0,238000.0,12.0,2006,Sangubashi,5.0
+1R,Apartment,Kitazawa,Setagaya-ku,Tokyo,55000.0,13.77,55000.0,0.0,5.0,1984,Higashikitazawa,5.0
+1R,Apartment,Tomigaya,Shibuya-ku,Tokyo,65000.0,12.19,0.0,28500.0,3.0,1983,Yoyogiuehara,12.0
+2DK,Apartment,Sakura,Setagaya-ku,Tokyo,100000.0,38.16,0.0,0.0,4.0,1988,Miyanosaka,3.0
+1K,Apartment,Tamagawagakuen,Machida-shi,Tokyo,55050.0,23.71,0.0,0.0,1.0,2013,Tamagawagakuen Mae,9.0
+1K,Apartment,Kyodo,Setagaya-ku,Tokyo,54000.0,16.03,0.0,49000.0,1.0,1993,Kyoudou,3.0
+1K,Apartment,Sasazuka,Shibuya-ku,Tokyo,82000.0,25.08,79000.0,0.0,1.0,1993,Sasazuka,2.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,228000.0,39.3,0.0,0.0,4.0,2023,Hatsudai,5.0
+1K,Apartment,Morino,Machida-shi,Tokyo,55550.0,19.87,0.0,0.0,1.0,2008,Machida,19.0
+2LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,206000.0,63.62,398000.0,0.0,2.0,1997,Yoyogi-koen,7.0
+1K,Apartment,Matsubara,Setagaya-ku,Tokyo,60000.0,18.6,0.0,0.0,4.0,1994,Goutokuji,5.0
+4LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,1400000.0,235.52,2800000.0,0.0,2.0,2001,Yoyogi-koen,6.0
+1K,Apartment,Kyodo,Setagaya-ku,Tokyo,63000.0,22.0,61000.0,0.0,2.0,1987,Chitosefunabashi,5.0
+1K,Apartment,Kyodo,Setagaya-ku,Tokyo,95000.0,25.08,87000.0,0.0,1.0,2011,Kyoudou,5.0
+1K,Apartment,Soshigaya,Setagaya-ku,Tokyo,80550.0,26.08,0.0,0.0,2.0,2006,Soshigaya Okura,12.0
+1K,Apartment,Inogata,Komae-shi,Tokyo,69550.0,23.61,0.0,0.0,1.0,2010,Komae,11.0
+1LDK,Apartment,Inogata,Komae-shi,Tokyo,92000.0,36.86,89000.0,89000.0,2.0,2012,Komae,11.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,67000.0,17.63,65000.0,0.0,1.0,1986,Shimokitazawa,5.0
+1LDK,Apartment,Hatsudai,Shibuya-ku,Tokyo,168000.0,33.89,0.0,158000.0,5.0,2023,Hatsudai,4.0
+1SLDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,257000.0,50.82,249000.0,0.0,1.0,2018,Sangubashi,6.0
+2DK,Apartment,Iwado minami,Komae-shi,Tokyo,86000.0,43.43,82000.0,0.0,3.0,1989,Kitami,10.0
+1K,Apartment,Okura,Setagaya-ku,Tokyo,83550.0,20.29,0.0,0.0,1.0,2017,Soshigaya Okura,20.0
+1LDK,Apartment,Funabashi,Setagaya-ku,Tokyo,149000.0,34.27,0.0,0.0,1.0,2024,Chitosefunabashi,8.0
+1LDK,Apartment,Nishihara,Shibuya-ku,Tokyo,225000.0,46.93,210000.0,0.0,1.0,2024,Yoyogiuehara,6.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,83000.0,20.63,0.0,0.0,2.0,2018,Sasazuka,8.0
+1K,Apartment,Hommachida,Machida-shi,Tokyo,49550.0,20.28,0.0,0.0,1.0,2001,,
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,175000.0,41.0,165000.0,0.0,4.0,2007,Shimokitazawa,5.0
+1R,Apartment,Akatsutsumi,Setagaya-ku,Tokyo,58000.0,14.89,0.0,0.0,4.0,1982,Matsubara,2.0
+2LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,730000.0,81.37,700000.0,700000.0,4.0,2023,Yoyogi-koen,6.0
+1R,Apartment,Daita,Setagaya-ku,Tokyo,108000.0,29.49,108000.0,108000.0,2.0,1998,Shimokitazawa,4.0
+1R,Apartment,Sendagaya,Shibuya-ku,Tokyo,161000.0,30.39,146000.0,0.0,11.0,2005,Kita Sandou,2.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,205000.0,39.2,195000.0,195000.0,4.0,2022,Minami Shinjuku,5.0
+1LDK,Apartment,Uehara,Shibuya-ku,Tokyo,192500.0,33.5,0.0,0.0,4.0,2017,Higashikitazawa,5.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,79050.0,15.62,0.0,0.0,1.0,1991,Sangubashi,6.0
+3LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,300750.0,68.04,290000.0,580000.0,4.0,2001,Komaba Toudai Mae,6.0
+1R,Apartment,Daita,Setagaya-ku,Tokyo,59000.0,16.56,54000.0,0.0,5.0,1986,Setagaya Daita,7.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,83000.0,18.05,0.0,0.0,2.0,2017,Umegaoka,8.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,127000.0,35.16,125000.0,125000.0,2.0,1988,Shimokitazawa,7.0
+1K,Apartment,Nakamachi,Machida-shi,Tokyo,48000.0,19.65,45000.0,0.0,4.0,1988,Machida,12.0
+3LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,248000.0,80.05,238000.0,238000.0,4.0,1994,Shimokitazawa,5.0
+1R,Apartment,Soshigaya,Setagaya-ku,Tokyo,59000.0,13.1,0.0,0.0,2.0,1991,Soshigaya Okura,5.0
+2LDK,Apartment,Gotokuji,Setagaya-ku,Tokyo,174000.0,68.72,338000.0,0.0,2.0,1986,Goutokuji,4.0
+2LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,400000.0,58.66,400000.0,0.0,12.0,2018,Yoyogi-koen,2.0
+2LDK,Apartment,Hatsudai,Shibuya-ku,Tokyo,224000.0,62.01,202000.0,202000.0,3.0,1990,Yoyogi-hachiman,10.0
+1K,Apartment,Matsubara,Setagaya-ku,Tokyo,83000.0,30.81,77000.0,0.0,1.0,1995,Umegaoka,7.0
+1K,Apartment,Kitami,Setagaya-ku,Tokyo,60000.0,22.33,55000.0,0.0,1.0,1991,Kitami,7.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,280000.0,52.49,268000.0,402000.0,13.0,2007,Yoyogi,3.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,210000.0,33.75,0.0,0.0,4.0,2024,Minami Shinjuku,2.0
+1K,Apartment,Haramachida,Machida-shi,Tokyo,63550.0,21.11,0.0,0.0,2.0,2013,Machida,9.0
+1K,Apartment,Morino,Machida-shi,Tokyo,74550.0,20.23,0.0,0.0,1.0,2010,Machida,5.0
+2DK,Apartment,Oyamacho,Shibuya-ku,Tokyo,105000.0,36.36,103000.0,0.0,2.0,1981,Yoyogi-uehara,7.0
+1LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,345000.0,54.29,0.0,0.0,12.0,2018,Hatsudai,6.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,85000.0,29.18,85000.0,85000.0,1.0,2008,Shindaita,3.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,122000.0,30.2,122000.0,122000.0,1.0,2016,Yoyogi-hachiman,6.0
+1R,Apartment,Kitazawa,Setagaya-ku,Tokyo,61000.0,17.0,0.0,0.0,1.0,1989,Higashikitazawa,2.0
+1K,Apartment,Shinjuku,Shinjuku-ku,Tokyo,114000.0,25.46,0.0,106000.0,3.0,2017,Higashi-Shinjuku,6.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,229000.0,62.15,221000.0,221000.0,3.0,2006,Sangubashi,5.0
+3LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,650000.0,93.73,650000.0,650000.0,58.0,2017,Nishishinjuku Go Choume,7.0
+2K,Apartment,Yoyogi,Shibuya-ku,Tokyo,113000.0,37.87,110000.0,110000.0,2.0,1986,Yoyogi,8.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,361000.0,50.86,0.0,0.0,14.0,2024,Minami Shinjuku,2.0
+1LDK,Apartment,Ohara,Setagaya-ku,Tokyo,161000.0,41.1,153000.0,0.0,1.0,2020,Shimokitazawa,9.0
+1DK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,228000.0,35.66,228000.0,228000.0,28.0,2017,Nishishinjuku Go Choume,7.0
+1K,Apartment,Kinuta,Setagaya-ku,Tokyo,63000.0,18.5,0.0,0.0,2.0,1988,Soshigaya Okura,9.0
+1R,Apartment,Ohara,Setagaya-ku,Tokyo,55000.0,15.5,0.0,0.0,2.0,1983,Daitabashi,8.0
+4SLDK,House,Oyamacho,Shibuya-ku,Tokyo,800000.0,239.1,1600000.0,800000.0,,1995,Higashikitazawa,6.0
+1DK,Apartment,Uehara,Shibuya-ku,Tokyo,170000.0,35.9,0.0,160000.0,2.0,2021,Yoyogiuehara,3.0
+3LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,268000.0,62.61,522000.0,0.0,6.0,1997,Yoyogi-koen,7.0
+1LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,275000.0,40.83,260000.0,260000.0,5.0,2018,Yoyogi-koen,7.0
+2DK,House,Akatsutsumi,Setagaya-ku,Tokyo,137000.0,51.97,137000.0,137000.0,,1999,Matsubara,7.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,145000.0,39.89,139000.0,139000.0,1.0,1991,Sangubashi,4.0
+2DK,Apartment,Gotokuji,Setagaya-ku,Tokyo,104000.0,35.0,0.0,0.0,1.0,1995,Miyanosaka,5.0
+1LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,280000.0,40.38,265000.0,265000.0,3.0,2018,Yoyogi-koen,8.0
+1DK,Apartment,Kitami,Setagaya-ku,Tokyo,68000.0,24.86,0.0,0.0,5.0,1987,Seijougakuen Mae,10.0
+2LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,680000.0,90.43,1360000.0,0.0,33.0,2011,Nishi-shinjuku,6.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,207000.0,41.5,0.0,0.0,3.0,2007,Yoyogi,3.0
+1K,Apartment,Umegaoka,Setagaya-ku,Tokyo,51000.0,17.0,50000.0,0.0,1.0,1983,Umegaoka,5.0
+1R,Apartment,Iwado minami,Komae-shi,Tokyo,48000.0,18.63,44000.0,0.0,3.0,1986,Kitami,9.0
+1R,Apartment,Hatagaya,Shibuya-ku,Tokyo,65000.0,18.25,0.0,0.0,4.0,1985,Hatagaya,2.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,240000.0,47.28,231000.0,231000.0,2.0,2018,Shimokitazawa,4.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,131000.0,22.9,0.0,0.0,3.0,2019,Minami Shinjuku,7.0
+1K,Apartment,Iwado kita,Komae-shi,Tokyo,48000.0,21.53,48000.0,0.0,1.0,1975,Komae,8.0
+1K,Apartment,Akatsutsumi,Setagaya-ku,Tokyo,61550.0,14.1,0.0,0.0,1.0,1991,Goutokuji,5.0
+1K,Apartment,Okuramachi,Machida-shi,Tokyo,47550.0,24.01,0.0,0.0,1.0,2003,Tsurukawa,6.0
+1R,Apartment,Shinjuku,Shinjuku-ku,Tokyo,269000.0,41.23,538000.0,0.0,11.0,2011,Higashi-Shinjuku,2.0
+1K,Apartment,Kitami,Setagaya-ku,Tokyo,58000.0,19.22,55000.0,0.0,1.0,1986,Kitami,2.0
+1K,Apartment,Asahimachi,Machida-shi,Tokyo,58550.0,19.87,0.0,0.0,1.0,2008,Machida,20.0
+1K,Apartment,Tomigaya,Shibuya-ku,Tokyo,117000.0,22.36,117000.0,117000.0,3.0,2023,Yoyogi-koen,3.0
+1LDK,Apartment,Kyodo,Setagaya-ku,Tokyo,130000.0,35.0,125000.0,0.0,3.0,1988,Chitosefunabashi,4.0
+2LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,208000.0,44.7,196000.0,196000.0,1.0,2019,Yoyogi-koen,8.0
+1K,Apartment,Iwado kita,Komae-shi,Tokyo,60550.0,14.1,0.0,0.0,1.0,1991,Kitami,4.0
+1LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,252000.0,46.7,252000.0,252000.0,11.0,2017,Nishishinjuku Go Choume,7.0
+1K,Apartment,Hatsudai,Shibuya-ku,Tokyo,124000.0,29.45,116000.0,0.0,1.0,2007,Hatsudai,5.0
+4LDK,Apartment,Iwado kita,Komae-shi,Tokyo,152000.0,84.2,149000.0,0.0,2.0,1992,Komae,7.0
+1K,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,191000.0,30.37,0.0,0.0,16.0,2018,Hatsudai,6.0
+2LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,630000.0,73.22,600000.0,600000.0,3.0,2023,Yoyogi-koen,6.0
+2LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,550000.0,72.0,1100000.0,550000.0,3.0,2023,Yoyogi-koen,6.0
+1K,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,55000.0,21.12,0.0,0.0,1.0,1988,Chitosefunabashi,5.0
+1K,Apartment,Ohara,Setagaya-ku,Tokyo,80000.0,20.0,75000.0,0.0,2.0,1982,Shimokitazawa,10.0
+3DK,Apartment,Nogaya,Machida-shi,Tokyo,82000.0,50.62,0.0,0.0,1.0,1994,Kakio,9.0
+2LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,205000.0,49.0,200000.0,200000.0,4.0,1999,Yoyogi-koen,4.0
+1K,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,173000.0,25.92,296000.0,0.0,1.0,2024,Nishi-shinjuku,3.0
+1LDK,Apartment,Hatsudai,Shibuya-ku,Tokyo,168500.0,33.89,0.0,158000.0,5.0,2023,Hatsudai,6.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,64000.0,20.28,62000.0,0.0,1.0,1990,Shindaita,2.0
+2LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,310000.0,57.94,310000.0,310000.0,7.0,2017,Nishishinjuku Go Choume,7.0
+1K,Apartment,Umegaoka,Setagaya-ku,Tokyo,89550.0,20.81,0.0,0.0,3.0,2010,Umegaoka,6.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,95000.0,25.0,89000.0,89000.0,4.0,1976,Minami Shinjuku,8.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,71000.0,17.14,68000.0,68000.0,3.0,1987,Yoyogi,5.0
+1R,Apartment,Tomigaya,Shibuya-ku,Tokyo,166000.0,33.44,166000.0,166000.0,5.0,2005,Yoyogi-koen,2.0
+1R,Apartment,Sasazuka,Shibuya-ku,Tokyo,60000.0,13.71,56000.0,0.0,4.0,1984,Sasazuka,5.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,84000.0,22.88,79000.0,79000.0,2.0,1991,Sangubashi,4.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,98000.0,30.39,95000.0,0.0,3.0,1972,Yoyogi-hachiman,2.0
+2LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,230000.0,63.62,446000.0,0.0,1.0,1997,Yoyogi-koen,7.0
+1K,Apartment,Haramachida,Machida-shi,Tokyo,48000.0,17.7,45000.0,0.0,8.0,1987,Machida,5.0
+1K,Apartment,Seijo,Setagaya-ku,Tokyo,56550.0,15.6,0.0,0.0,1.0,1991,Seijougakuen Mae,19.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,160000.0,41.68,160000.0,240000.0,2.0,2014,Yoyogi-koen,7.0
+2LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,473000.0,74.08,946000.0,0.0,28.0,2011,Nishi-shinjuku,6.0
+1K,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,107000.0,31.1,97000.0,97000.0,6.0,1983,Hatsudai,8.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,244000.0,40.05,244000.0,244000.0,8.0,2005,Yoyogi-koen,2.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,93550.0,23.31,0.0,0.0,2.0,2013,Shimokitazawa,8.0
+1LDK,Apartment,Daita,Setagaya-ku,Tokyo,169330.0,31.46,0.0,158000.0,2.0,2021,Setagaya Daita,4.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,238000.0,38.31,0.0,0.0,2.0,2004,Yoyogi-koen,4.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,275000.0,50.92,265000.0,265000.0,3.0,2011,Yoyogi-koen,4.0
+1SLDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,275000.0,54.62,265000.0,0.0,2.0,2006,Komaba Toudai Mae,6.0
+1K,Apartment,Asahimachi,Machida-shi,Tokyo,49550.0,19.84,0.0,0.0,1.0,2000,Machida,16.0
+1R,Apartment,Morino,Machida-shi,Tokyo,56000.0,19.05,53000.0,0.0,2.0,1991,Machida,8.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,224000.0,63.32,0.0,213000.0,3.0,1979,Sangubashi,5.0
+1K,Apartment,Daizawa,Setagaya-ku,Tokyo,90000.0,25.0,90000.0,90000.0,2.0,1999,Setagaya Daita,9.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,225000.0,50.3,217000.0,217000.0,13.0,2006,Sangubashi,5.0
+1K,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,133000.0,21.47,123000.0,0.0,11.0,2006,Shinjuku Nishiguchi,4.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,174000.0,33.65,159000.0,0.0,4.0,2018,Shimokitazawa,3.0
+1R,Apartment,Sendagaya,Shibuya-ku,Tokyo,211000.0,45.73,196000.0,0.0,7.0,2005,Kita Sandou,2.0
+2LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,380000.0,56.89,365000.0,365000.0,4.0,2018,Yoyogi-koen,7.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,155000.0,27.43,0.0,0.0,3.0,2023,Hatsudai,5.0
+1K,Apartment,Nakamachi,Machida-shi,Tokyo,58550.0,20.28,0.0,0.0,1.0,2002,Machida,13.0
+1K,Apartment,Okuramachi,Machida-shi,Tokyo,48550.0,19.87,0.0,0.0,2.0,2008,,
+1R,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,79000.0,22.8,70000.0,0.0,8.0,1980,Hatsudai,9.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,252000.0,47.92,240000.0,360000.0,11.0,2007,Yoyogi,3.0
+2SLDK,House,Kitazawa,Setagaya-ku,Tokyo,330000.0,87.38,660000.0,330000.0,,2020,Higashikitazawa,3.0
+1R,Apartment,Hachimanyama,Setagaya-ku,Tokyo,57000.0,16.6,0.0,0.0,3.0,1991,Kamikitazawa,14.0
+2LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,680000.0,72.93,680000.0,680000.0,2.0,2023,Yoyogi-koen,6.0
+1R,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,65000.0,12.88,0.0,0.0,5.0,1981,Tochomae,8.0
+1K,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,105330.0,25.58,0.0,95000.0,3.0,2012,Chitosefunabashi,5.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,242000.0,38.25,0.0,0.0,5.0,2004,Yoyogi-koen,4.0
+1R,Apartment,Hatsudai,Shibuya-ku,Tokyo,75000.0,10.28,0.0,0.0,2.0,2016,Hatsudai,2.0
+3LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,362000.0,82.48,0.0,332000.0,14.0,2008,Hatsudai,5.0
+3LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,1200000.0,124.72,0.0,0.0,8.0,2018,Yoyogi-koen,8.0
+1K,Apartment,Higashiizumi,Komae-shi,Tokyo,46000.0,17.39,0.0,0.0,1.0,1991,Komae,1.0
+2LDK,House,Matsubara,Setagaya-ku,Tokyo,175000.0,58.91,0.0,175000.0,,2017,Higashimatsubara,9.0
+1R,Apartment,Kinuta,Setagaya-ku,Tokyo,58000.0,20.46,0.0,0.0,1.0,1992,Soshigaya Okura,6.0
+1SLDK,Apartment,Uehara,Shibuya-ku,Tokyo,271000.0,49.2,0.0,0.0,2.0,2023,Yoyogiuehara,5.0
+1LDK,Apartment,Funabashi,Setagaya-ku,Tokyo,145000.0,34.03,0.0,0.0,1.0,2023,Kyoudou,14.0
+1DK,Apartment,Yoyogi,Shibuya-ku,Tokyo,94500.0,35.9,0.0,94500.0,1.0,1977,Sangubashi,5.0
+1K,Apartment,Sakura,Setagaya-ku,Tokyo,77500.0,20.81,0.0,0.0,1.0,2004,Kamimachi,5.0
+1K,Apartment,Asahimachi,Machida-shi,Tokyo,64000.0,19.87,0.0,0.0,1.0,2008,Machida,20.0
+1K,Apartment,Wakabayashi,Setagaya-ku,Tokyo,101500.0,23.61,0.0,0.0,1.0,2009,Shōin-Jinjamae.,3.0
+1LDK,Apartment,Hanegi,Setagaya-ku,Tokyo,146500.0,47.07,0.0,0.0,4.0,2011,Daitabashi,8.0
+1K,Apartment,Kyodo,Setagaya-ku,Tokyo,75500.0,16.53,0.0,0.0,1.0,1989,Kyoudou,11.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,86050.0,25.34,0.0,0.0,2.0,2011,Higashikitazawa,7.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,100050.0,19.87,0.0,94000.0,2.0,2011,Shimokitazawa,7.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,129500.0,23.35,0.0,0.0,2.0,2015,Minami Shinjuku,2.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,230000.0,34.45,215000.0,0.0,8.0,2024,Yoyogi-hachiman,9.0
+1K,Apartment,Hommachida,Machida-shi,Tokyo,59000.0,19.87,0.0,0.0,2.0,2008,,
+1K,Apartment,Kamikitazawa,Setagaya-ku,Tokyo,82050.0,21.91,0.0,0.0,1.0,2013,Sakurajousui,15.0
+4LDK,House,Daizawa,Setagaya-ku,Tokyo,470000.0,151.64,940000.0,940000.0,,1998,Shimokitazawa,5.0
+1K,Apartment,Nishinogawa,Komae-shi,Tokyo,74000.0,21.4,0.0,67000.0,3.0,2006,Shibazaki,14.0
+1K,Apartment,Setagaya,Setagaya-ku,Tokyo,100500.0,26.84,0.0,0.0,1.0,2016,Kamimachi,8.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,92050.0,19.87,0.0,86000.0,1.0,2008,Shimokitazawa,6.0
+2LDK,Apartment,Nishihara,Shibuya-ku,Tokyo,199000.0,53.27,0.0,0.0,1.0,2021,Hatagaya,6.0
+1K,Apartment,Sakurajosui,Setagaya-ku,Tokyo,79500.0,20.64,0.0,74000.0,1.0,2012,Sakurajousui,14.0
+1K,Apartment,Umegaoka,Setagaya-ku,Tokyo,116050.0,28.81,0.0,110000.0,1.0,2013,Goutokuji,6.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,112500.0,22.75,0.0,0.0,1.0,2018,Shimokitazawa,3.0
+1R,Apartment,Chitosedai,Setagaya-ku,Tokyo,63000.0,18.7,0.0,0.0,1.0,1992,Chitosefunabashi,7.0
+1K,Apartment,Kanamori,Machida-shi,Tokyo,60000.0,19.87,0.0,0.0,2.0,2008,,
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,450000.0,76.27,425000.0,425000.0,9.0,2014,Hatsudai,7.0
+1K,Apartment,Kitami,Setagaya-ku,Tokyo,80500.0,23.27,0.0,0.0,1.0,2007,Kitami,13.0
+1K,Apartment,Akatsutsumi,Setagaya-ku,Tokyo,64000.0,14.1,0.0,0.0,2.0,1991,Yamashita,4.0
+1K,Apartment,Nakamachi,Machida-shi,Tokyo,80550.0,23.61,0.0,0.0,1.0,2011,Machida,13.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,84050.0,21.9,0.0,0.0,1.0,2011,Setagaya Daita,10.0
+1K,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,72500.0,20.01,0.0,0.0,1.0,2004,Chitosefunabashi,17.0
+1K,Apartment,Yamazakimachi,Machida-shi,Tokyo,62550.0,25.17,0.0,0.0,1.0,2016,,
+1K,Apartment,Sakura,Setagaya-ku,Tokyo,93500.0,20.32,0.0,0.0,1.0,2016,Kyoudou,11.0
+1K,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,70500.0,21.15,0.0,0.0,1.0,2010,Chitosefunabashi,14.0
+1K,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,99050.0,29.66,0.0,0.0,2.0,2015,Chitosefunabashi,5.0
+1K,Apartment,Miyasaka,Setagaya-ku,Tokyo,72500.0,19.87,0.0,67000.0,2.0,2003,Kyoudou,11.0
+1K,Apartment,Inogata,Komae-shi,Tokyo,75550.0,23.27,0.0,0.0,1.0,2010,Komae,11.0
+1K,Apartment,Chitosedai,Setagaya-ku,Tokyo,86500.0,20.15,0.0,0.0,2.0,2017,Chitosefunabashi,9.0
+1R,Apartment,Matsubara,Setagaya-ku,Tokyo,85000.0,16.89,0.0,0.0,2.0,2021,Umegaoka,6.0
+1K,Apartment,Unane,Setagaya-ku,Tokyo,78050.0,27.54,0.0,0.0,2.0,2013,Seijougakuen Mae,26.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,96050.0,23.28,0.0,0.0,1.0,2012,Higashikitazawa,6.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,85050.0,19.87,0.0,0.0,2.0,2011,Higashimatsubara,5.0
+1K,Apartment,Tamagawagakuen,Machida-shi,Tokyo,54000.0,19.87,0.0,0.0,1.0,2003,Tamagawagakuen Mae,16.0
+1K,Apartment,Kanamori,Machida-shi,Tokyo,65000.0,19.87,0.0,0.0,1.0,2006,Machida,21.0
+3LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,390000.0,68.11,375000.0,0.0,7.0,2006,Yoyogi-hachiman,10.0
+1K,Apartment,Okuramachi,Machida-shi,Tokyo,64000.0,22.68,0.0,0.0,2.0,2005,Tsurukawa,11.0
+1LDK,Apartment,Funabashi,Setagaya-ku,Tokyo,152000.0,33.53,0.0,0.0,2.0,2024,Chitosefunabashi,8.0
+1K,Apartment,Nishinogawa,Komae-shi,Tokyo,60000.0,23.71,0.0,0.0,1.0,2004,Shibazaki,20.0
+1K,Apartment,Morino,Machida-shi,Tokyo,65000.0,22.89,0.0,0.0,1.0,2012,Kobuchi,19.0
+1K,Apartment,Sakura,Setagaya-ku,Tokyo,95000.0,23.1,85500.0,0.0,2.0,2008,Kyoudou,10.0
+1K,Apartment,Asahimachi,Machida-shi,Tokyo,55000.0,19.84,0.0,0.0,3.0,2000,Machida,15.0
+1K,Apartment,Miyasaka,Setagaya-ku,Tokyo,88500.0,20.81,0.0,0.0,2.0,2008,Miyanosaka,7.0
+1K,Apartment,Kitami,Setagaya-ku,Tokyo,74500.0,23.27,0.0,0.0,1.0,2007,Seijougakuen Mae,18.0
+1R,Apartment,Akatsutsumi,Setagaya-ku,Tokyo,58000.0,14.89,0.0,0.0,4.0,1982,Matsubara,2.0
+2LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,598000.0,78.82,1196000.0,0.0,31.0,2011,Nishi-shinjuku,6.0
+1K,Apartment,Kamisoshigaya,Setagaya-ku,Tokyo,68050.0,19.87,0.0,0.0,2.0,2000,Soshigaya Okura,20.0
+1K,Apartment,Wakabayashi,Setagaya-ku,Tokyo,95500.0,20.76,0.0,0.0,1.0,2013,Nishitaishidou,4.0
+1K,Apartment,Inogata,Komae-shi,Tokyo,74000.0,28.02,0.0,0.0,2.0,2010,Komae,11.0
+1LDK,Apartment,Wakabayashi,Setagaya-ku,Tokyo,153500.0,56.04,0.0,148000.0,2.0,2009,Shōin-Jinjamae.,3.0
+1K,Apartment,Tamagawagakuen,Machida-shi,Tokyo,70000.0,23.71,0.0,0.0,1.0,2013,Tamagawagakuen Mae,9.0
+1K,Apartment,Kamata,Setagaya-ku,Tokyo,75500.0,20.62,0.0,0.0,1.0,2016,,
+1K,Apartment,Nogaya,Machida-shi,Tokyo,61000.0,19.6,0.0,0.0,2.0,2008,Tsurukawa,15.0
+1R,Apartment,Ohara,Setagaya-ku,Tokyo,57000.0,16.18,52000.0,0.0,1.0,1982,Shimokitazawa,7.0
+1K,Apartment,Miwamachi,Machida-shi,Tokyo,62550.0,25.1,0.0,0.0,2.0,2018,Kakio,25.0
+1K,Apartment,Seijo,Setagaya-ku,Tokyo,71500.0,19.87,0.0,0.0,1.0,2006,Seijougakuen Mae,15.0
+1K,Apartment,Tomigaya,Shibuya-ku,Tokyo,112050.0,20.03,0.0,106000.0,2.0,2016,Yoyogi-hachiman,11.0
+1K,Apartment,Kyodo,Setagaya-ku,Tokyo,80500.0,20.28,0.0,0.0,1.0,2006,Kyoudou,11.0
+1K,Apartment,Nakaizumi,Komae-shi,Tokyo,67000.0,21.94,0.0,0.0,1.0,2003,Komae,13.0
+1K,Apartment,Okura,Setagaya-ku,Tokyo,83500.0,20.29,0.0,0.0,2.0,2017,Soshigaya Okura,20.0
+1K,Apartment,Sakurajosui,Setagaya-ku,Tokyo,81050.0,19.87,0.0,0.0,2.0,2011,Sakurajousui,15.0
+2LDK,Apartment,Funabashi,Setagaya-ku,Tokyo,247000.0,42.0,0.0,0.0,3.0,2024,Chitosefunabashi,7.0
+1K,Apartment,Okuramachi,Machida-shi,Tokyo,50550.0,19.87,0.0,0.0,2.0,2008,,
+1K,Apartment,Hanegi,Setagaya-ku,Tokyo,103500.0,21.47,0.0,0.0,1.0,2013,Daitabashi,8.0
+1K,Apartment,Haramachida,Machida-shi,Tokyo,87000.0,19.87,0.0,0.0,2.0,2009,Machida,7.0
+1K,Apartment,Miwamachi,Machida-shi,Tokyo,54550.0,19.87,0.0,0.0,2.0,2005,,
+1K,Apartment,Soshigaya,Setagaya-ku,Tokyo,73500.0,19.76,0.0,0.0,1.0,2013,Soshigaya Okura,23.0
+1K,Apartment,Kitami,Setagaya-ku,Tokyo,83500.0,20.08,0.0,0.0,1.0,2015,Komae,24.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,116050.0,26.1,0.0,0.0,1.0,2013,Setagaya Daita,4.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,109500.0,23.31,0.0,0.0,2.0,2013,Shimokitazawa,8.0
+1K,Apartment,Haramachida,Machida-shi,Tokyo,63000.0,21.6,0.0,0.0,1.0,1999,Machida,10.0
+1K,Apartment,Okura,Setagaya-ku,Tokyo,64500.0,24.84,0.0,0.0,2.0,2010,Seijougakuen Mae,24.0
+1K,Apartment,Nakamachi,Machida-shi,Tokyo,58000.0,19.87,0.0,0.0,2.0,2005,Machida,19.0
+1K,Apartment,Morino,Machida-shi,Tokyo,58000.0,19.87,0.0,0.0,1.0,2008,Machida,19.0
+1K,Apartment,Sakurajosui,Setagaya-ku,Tokyo,85500.0,20.76,0.0,0.0,2.0,2016,Sakurajousui,15.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,100050.0,26.22,0.0,94000.0,2.0,2013,Setagaya Daita,6.0
+1K,Apartment,Miyasaka,Setagaya-ku,Tokyo,67500.0,16.31,0.0,0.0,2.0,1993,Kyoudou,5.0
+1K,Apartment,Hanegi,Setagaya-ku,Tokyo,90500.0,23.53,0.0,85000.0,1.0,2011,Daitabashi,8.0
+1K,Apartment,Kitami,Setagaya-ku,Tokyo,70500.0,28.02,0.0,0.0,2.0,2007,Kitami,14.0
+2DK,Apartment,Yamazakimachi,Machida-shi,Tokyo,52000.0,38.0,0.0,0.0,1.0,1988,Tsurukawa,20.0
+1K,Apartment,Unane,Setagaya-ku,Tokyo,71500.0,26.08,0.0,0.0,2.0,2005,,
+3LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,1300000.0,124.72,0.0,0.0,8.0,2018,Yoyogi-koen,7.0
+1R,Apartment,Hatsudai,Shibuya-ku,Tokyo,154200.0,17.91,0.0,0.0,5.0,2020,Hatsudai,8.0
+1K,Apartment,Funabashi,Setagaya-ku,Tokyo,79500.0,19.87,0.0,0.0,2.0,2006,Chitosefunabashi,3.0
+1R,Apartment,Soshigaya,Setagaya-ku,Tokyo,48000.0,17.0,46000.0,0.0,2.0,1985,Soshigaya Okura,4.0
+1LDK,Apartment,Umegaoka,Setagaya-ku,Tokyo,160500.0,51.49,310000.0,0.0,3.0,2007,Goutokuji,3.0
+1R,Apartment,Daita,Setagaya-ku,Tokyo,70000.0,20.0,0.0,0.0,2.0,1989,Setagaya Daita,13.0
+1K,Apartment,Kanai,Machida-shi,Tokyo,51000.0,26.08,0.0,0.0,2.0,2003,Tsurukawa,26.0
+1K,Apartment,Hatagaya,Shibuya-ku,Tokyo,189000.0,21.8,0.0,0.0,5.0,2022,Hatagaya,2.0
+4LDK,House,Daita,Setagaya-ku,Tokyo,1400000.0,185.25,1400000.0,0.0,,2023,Shimokitazawa,7.0
+1K,Apartment,Hatagaya,Shibuya-ku,Tokyo,189000.0,21.8,0.0,0.0,5.0,2022,Hatagaya,2.0
+1K,Apartment,Inogata,Komae-shi,Tokyo,62000.0,23.18,0.0,0.0,1.0,1997,Komae,11.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,334000.0,56.72,0.0,0.0,2.0,2023,Yoyogi-koen,4.0
+1LDK,Apartment,Hatsudai,Shibuya-ku,Tokyo,213600.0,26.0,0.0,0.0,2.0,2024,Hatsudai,10.0
+1K,Apartment,Okuramachi,Machida-shi,Tokyo,55000.0,24.01,0.0,0.0,2.0,2003,Tsurukawa,24.0
+1K,Apartment,Hatsudai,Shibuya-ku,Tokyo,165000.0,20.91,0.0,0.0,4.0,2020,Hatsudai,8.0
+1K,Apartment,Soshigaya,Setagaya-ku,Tokyo,72500.0,19.87,0.0,0.0,2.0,2001,Chitose Karasuyama,19.0
+1K,Apartment,Morino,Machida-shi,Tokyo,73000.0,20.23,0.0,0.0,3.0,2010,Machida,3.0
+1K,Apartment,Onojimachi,Machida-shi,Tokyo,51000.0,19.87,0.0,0.0,2.0,2009,,
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,417000.0,75.06,402000.0,804000.0,13.0,2007,Yoyogi,4.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,288835.0,55.51,267000.0,267000.0,11.0,2008,Hatsudai,5.0
+1R,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,271000.0,50.08,256000.0,256000.0,9.0,2020,Shinsen,10.0
+1R,Apartment,Hatsudai,Shibuya-ku,Tokyo,112000.0,22.2,106000.0,0.0,10.0,2007,Hatsudai,1.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,197000.0,33.2,189000.0,189000.0,3.0,2022,Yoyogi-hachiman,4.0
+1R,Apartment,Funabashi,Setagaya-ku,Tokyo,143030.0,19.5,0.0,0.0,1.0,2015,Chitosefunabashi,3.0
+1LDK,Apartment,Setagaya,Setagaya-ku,Tokyo,126100.0,31.0,121000.0,121000.0,4.0,2020,Setagaya,2.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,73000.0,14.1,0.0,0.0,2.0,1990,Sangubashi,5.0
+1LDK,Apartment,Funabashi,Setagaya-ku,Tokyo,112050.0,39.74,0.0,0.0,3.0,2006,Chitosefunabashi,3.0
+2LDK,Apartment,Haramachida,Machida-shi,Tokyo,354230.0,69.39,0.0,0.0,4.0,1989,Machida,13.0
+1R,Apartment,Ikejiri,Setagaya-ku,Tokyo,79000.0,18.63,71600.0,0.0,2.0,1997,Ikenoue,9.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,235000.0,34.34,220000.0,0.0,10.0,2023,Minami Shinjuku,3.0
+1K,Apartment,Haramachida,Machida-shi,Tokyo,146030.0,25.03,0.0,0.0,2.0,2008,Machida,10.0
+1LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,269000.0,50.08,254000.0,254000.0,5.0,2020,Shinsen,10.0
+1K,Apartment,Umegaoka,Setagaya-ku,Tokyo,75000.0,21.17,72000.0,72000.0,1.0,2004,Wakabayashi,9.0
+1R,Apartment,Funabashi,Setagaya-ku,Tokyo,152030.0,17.96,0.0,0.0,4.0,2015,Chitosefunabashi,4.0
+1K,Apartment,Motoyoyogicho,Shibuya-ku,Tokyo,169430.0,16.36,0.0,0.0,1.0,2017,Yoyogiuehara,9.0
+2LDK,Apartment,Okura,Setagaya-ku,Tokyo,156640.0,61.55,146000.0,0.0,2.0,1994,Soshigaya Okura,20.0
+1K,Apartment,Oyamacho,Shibuya-ku,Tokyo,169000.0,33.62,159000.0,159000.0,5.0,2010,Yoyogiuehara,7.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,400000.0,93.16,760000.0,0.0,1.0,1993,Sangubashi,5.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,206000.0,33.61,0.0,191000.0,6.0,2024,Yoyogi-hachiman,9.0
+1LDK,Apartment,Oyamacho,Shibuya-ku,Tokyo,195000.0,44.35,0.0,0.0,5.0,2003,Yoyogi-uehara,1.0
+3LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,500000.0,68.86,480000.0,0.0,11.0,2024,Yoyogi-hachiman,9.0
+1R,Apartment,Hatsudai,Shibuya-ku,Tokyo,118500.0,21.5,0.0,60000.0,3.0,2006,Sangubashi,8.0
+2SLDK,House,Akatsutsumi,Setagaya-ku,Tokyo,298000.0,70.17,298000.0,0.0,,2023,Matsubara,6.0
+1K,Apartment,Morino,Machida-shi,Tokyo,85550.0,20.23,0.0,80000.0,3.0,2010,Machida,3.0
+1LDK,Apartment,Iwado minami,Komae-shi,Tokyo,125000.0,40.25,125000.0,0.0,3.0,2016,Komae,10.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,97050.0,21.71,0.0,91000.0,1.0,2013,Setagaya Daita,5.0
+1K,Apartment,Matsubara,Setagaya-ku,Tokyo,125000.0,31.82,0.0,110000.0,1.0,2008,Meidaimae,5.0
+1LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,224100.0,48.4,210000.0,210000.0,3.0,2008,Yoyogi-koen,5.0
+1K,Apartment,Hommachida,Machida-shi,Tokyo,64550.0,23.86,0.0,0.0,2.0,2016,,
+3LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,450000.0,62.86,430000.0,0.0,12.0,2024,Yoyogi-hachiman,9.0
+2LDK,Terrace house,Inogata,Komae-shi,Tokyo,140000.0,67.22,0.0,0.0,1.0,2013,Izumitamagawa,7.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,245000.0,40.38,245000.0,245000.0,7.0,2005,Yoyogi-koen,3.0
+2SK,Apartment,Uehara,Shibuya-ku,Tokyo,271000.0,49.2,0.0,0.0,2.0,2023,Yoyogiuehara,7.0
+2LDK,Apartment,Hatsudai,Shibuya-ku,Tokyo,225000.0,40.2,213000.0,213000.0,2.0,2024,Hatsudai,3.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,167000.0,31.25,0.0,0.0,2.0,2024,Ikenoue,2.0
+2SLDK,Apartment,Kyodo,Setagaya-ku,Tokyo,130000.0,41.21,252000.0,126000.0,1.0,2016,Kyoudou,3.0
+1K,Apartment,Chitosedai,Setagaya-ku,Tokyo,94500.0,26.96,0.0,0.0,2.0,2014,Soshigaya Okura,9.0
+3LDK,House,Inogata,Komae-shi,Tokyo,450000.0,117.92,900000.0,450000.0,,2023,Izumitamagawa,12.0
+2LDK,Apartment,Sasazuka,Shibuya-ku,Tokyo,400000.0,59.64,380000.0,0.0,5.0,2024,Sasazuka,6.0
+1K,Apartment,Daizawa,Setagaya-ku,Tokyo,90000.0,25.0,90000.0,90000.0,2.0,1999,Shimokitazawa,13.0
+1LDK,Apartment,Daizawa,Setagaya-ku,Tokyo,185000.0,39.95,175000.0,175000.0,3.0,2017,Shimokitazawa,5.0
+2LDK,Apartment,Kitashinjuku,Shinjuku-ku,Tokyo,290000.0,50.61,275000.0,0.0,6.0,2020,Nishi-shinjuku,8.0
+1LDK,Apartment,Wakabayashi,Setagaya-ku,Tokyo,144050.0,56.04,138000.0,0.0,2.0,2009,Shōin-Jinjamae.,2.0
+2LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,300000.0,46.12,285000.0,0.0,2.0,2024,Yoyogi-hachiman,9.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,122000.0,22.11,117000.0,117000.0,4.0,2020,Minami Shinjuku,4.0
+2LDK,Terrace house,Iwado kita,Komae-shi,Tokyo,145000.0,55.35,143000.0,0.0,1.0,2013,Kitami,7.0
+1K,Apartment,Ikejiri,Setagaya-ku,Tokyo,138000.0,25.3,128000.0,128000.0,6.0,2022,Ikenoue,10.0
+1LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,264000.0,50.08,249000.0,249000.0,3.0,2020,Shinsen,10.0
+1LDK,Apartment,Motoyoyogicho,Shibuya-ku,Tokyo,240000.0,47.16,230000.0,230000.0,3.0,2022,Yoyogi-hachiman,7.0
+2K,Apartment,Uehara,Shibuya-ku,Tokyo,156450.0,27.5,0.0,0.0,3.0,2023,Yoyogiuehara,7.0
+3LDK,Apartment,Motoyoyogicho,Shibuya-ku,Tokyo,329000.0,78.18,317000.0,634000.0,3.0,2010,Yoyogi-koen,8.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,454500.0,76.27,425000.0,425000.0,9.0,2014,Hatsudai,7.0
+3LDK,Apartment,Nishihara,Shibuya-ku,Tokyo,850000.0,135.55,850000.0,850000.0,3.0,2008,Yoyogiuehara,6.0
+2SLDK,House,Kitami,Setagaya-ku,Tokyo,288000.0,83.42,288000.0,288000.0,,2023,Seijougakuen Mae,17.0
+1K,Apartment,Okuramachi,Machida-shi,Tokyo,64000.0,25.88,0.0,0.0,1.0,2016,Tsurukawa,21.0
+1R,Apartment,Motoyoyogicho,Shibuya-ku,Tokyo,134000.0,27.6,0.0,119000.0,2.0,2011,Yoyogi-hachiman,8.0
+1R,Apartment,Umegaoka,Setagaya-ku,Tokyo,89000.0,18.99,0.0,0.0,2.0,2019,Goutokuji,6.0
+3LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,450000.0,62.86,430000.0,0.0,12.0,2024,Yoyogi-hachiman,9.0
+1K,Apartment,Hatsudai,Shibuya-ku,Tokyo,165000.0,20.91,0.0,0.0,1.0,2020,Hatsudai,8.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,235000.0,37.83,220000.0,0.0,8.0,2024,Yoyogi-hachiman,9.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,235000.0,44.36,225000.0,225000.0,4.0,2011,Yoyogi-koen,3.0
+3LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,450000.0,78.57,450000.0,450000.0,4.0,2021,Sangubashi,2.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,177625.0,49.2,167000.0,167000.0,5.0,1996,Yoyogi-koen,2.0
+1K,Apartment,Uehara,Shibuya-ku,Tokyo,126000.0,22.34,0.0,0.0,5.0,2019,Yoyogiuehara,9.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,174000.0,33.65,159000.0,0.0,4.0,2018,Shimokitazawa,4.0
+1K,Apartment,Hatagaya,Shibuya-ku,Tokyo,96050.0,19.87,0.0,90000.0,2.0,2007,Hatagaya,3.0
+1SLDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,270000.0,39.97,255000.0,0.0,12.0,2024,Yoyogi-hachiman,9.0
+2LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,300000.0,46.12,285000.0,0.0,2.0,2024,Yoyogi-hachiman,9.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,490000.0,97.32,940000.0,0.0,3.0,1993,Hatsudai,5.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,190000.0,40.8,180000.0,0.0,10.0,2006,Hatsudai,4.0
+1DK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,196000.0,32.23,0.0,0.0,9.0,2018,Hatsudai,5.0
+1LDK,Apartment,Kyodo,Setagaya-ku,Tokyo,116050.0,40.26,0.0,110000.0,2.0,2009,Kyoudou,9.0
+1LDK,Apartment,Hommachi,Shibuya-ku,Tokyo,390000.0,79.59,380000.0,0.0,13.0,2019,Hatsudai,3.0
+2DK,Apartment,Daizawa,Setagaya-ku,Tokyo,202200.0,54.81,370000.0,370000.0,2.0,2007,Setagaya Daita,10.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,420000.0,93.16,800000.0,0.0,1.0,1993,Hatsudai,5.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,155000.0,27.43,0.0,0.0,3.0,2023,Sangubashi,5.0
+1LDK,Apartment,Uehara,Shibuya-ku,Tokyo,142340.0,41.2,140000.0,140000.0,1.0,1994,Higashikitazawa,6.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,135000.0,22.54,0.0,0.0,4.0,2005,Minami Shinjuku,4.0
+2DK,Apartment,Taishido,Setagaya-ku,Tokyo,174370.0,44.62,165000.0,165000.0,1.0,1986,Sangenjaya,10.0
+4LDK,House,Hatagaya,Shibuya-ku,Tokyo,1002900.0,66.82,0.0,0.0,,2010,Hatagaya,5.0
+1LDK,Apartment,Uehara,Shibuya-ku,Tokyo,101000.0,28.08,98000.0,98000.0,2.0,1993,Yoyogiuehara,3.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,215000.0,54.13,215000.0,215000.0,7.0,2003,Sangubashi,7.0
+1SLDK,Apartment,Gotokuji,Setagaya-ku,Tokyo,199000.0,43.83,0.0,0.0,2.0,2024,Goutokuji,7.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,245000.0,46.33,235000.0,0.0,2.0,2022,Higashikitazawa,5.0
+3LDK,House,Seijo,Setagaya-ku,Tokyo,240000.0,99.21,480000.0,240000.0,2.0,2014,Kitami,14.0
+1R,Apartment,Mishuku,Setagaya-ku,Tokyo,74500.0,13.43,0.0,0.0,1.0,2018,Ikejiriohashi,12.0
+1LDK,Apartment,Uehara,Shibuya-ku,Tokyo,99000.0,28.08,96000.0,96000.0,1.0,1993,Yoyogiuehara,3.0
+1LDK,Apartment,Daizawa,Setagaya-ku,Tokyo,189000.0,37.1,0.0,0.0,2.0,2023,Shimokitazawa,7.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,131000.0,22.15,0.0,0.0,2.0,2022,Minami Shinjuku,7.0
+1K,Apartment,Hatagaya,Shibuya-ku,Tokyo,96000.0,20.47,0.0,0.0,4.0,2011,Hatagaya,2.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,208000.0,43.74,198000.0,198000.0,4.0,2007,Ikenoue,5.0
+2LDK,Apartment,Kamiyoga,Setagaya-ku,Tokyo,248000.0,61.44,0.0,0.0,1.0,2022,Youga,9.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,200000.0,34.43,0.0,0.0,3.0,2018,Shinjuku,7.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,240000.0,46.13,0.0,0.0,2.0,2023,Minami Shinjuku,3.0
+1K,Apartment,Funabashi,Setagaya-ku,Tokyo,79500.0,19.11,0.0,0.0,2.0,2003,Chitosefunabashi,8.0
+1LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,269110.0,50.08,254000.0,254000.0,5.0,2020,Yoyogi-hachiman,12.0
+2K,Apartment,Nishihara,Shibuya-ku,Tokyo,106000.0,32.4,100000.0,100000.0,3.0,1976,Hatagaya,5.0
+2DK,Apartment,Wakabayashi,Setagaya-ku,Tokyo,98000.0,47.0,98000.0,98000.0,2.0,1973,Shōin-Jinjamae.,4.0
+1K,Apartment,Kinuta,Setagaya-ku,Tokyo,54000.0,17.64,0.0,0.0,4.0,1986,Soshigaya Okura,5.0
+2LDK,Apartment,Daita,Setagaya-ku,Tokyo,150550.0,53.83,150000.0,150000.0,2.0,1994,Shimokitazawa,12.0
+2K,Apartment,Kyodo,Setagaya-ku,Tokyo,116000.0,38.92,101000.0,0.0,3.0,2007,Chitosefunabashi,4.0
+1K,Apartment,Hatsudai,Shibuya-ku,Tokyo,94000.0,21.5,0.0,0.0,4.0,2006,Sangubashi,9.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,470000.0,97.32,900000.0,0.0,3.0,1993,Hatsudai,5.0
+1R,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,128000.0,14.28,0.0,0.0,2.0,1985,Yoyogi-hachiman,7.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,116050.0,22.54,0.0,0.0,2.0,2019,Sangubashi,7.0
+2LDK,Apartment,Unane,Setagaya-ku,Tokyo,132000.0,53.79,0.0,0.0,1.0,2016,Seijougakuen Mae,27.0
+1R,Apartment,Ikejiri,Setagaya-ku,Tokyo,80000.0,18.63,72600.0,0.0,4.0,1997,Ikenoue,9.0
+1SLDK,House,Kinuta,Setagaya-ku,Tokyo,200000.0,70.46,400000.0,200000.0,3.0,2015,Soshigaya Okura,4.0
+2LDK,Apartment,Udagawacho,Shibuya-ku,Tokyo,225000.0,64.0,450000.0,225000.0,2.0,1975,Shibuya,8.0
+1K,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,97550.0,29.66,0.0,0.0,2.0,2015,Chitosefunabashi,3.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,109050.0,22.27,0.0,0.0,1.0,2012,Higashikitazawa,4.0
+1K,Apartment,Morino,Machida-shi,Tokyo,75550.0,20.67,0.0,35000.0,1.0,2018,Machida,9.0
+2LDK,Apartment,Oyamacho,Shibuya-ku,Tokyo,290000.0,57.13,265000.0,265000.0,1.0,2019,Yoyogiuehara,5.0
+1DK,Apartment,Yoyogi,Shibuya-ku,Tokyo,130000.0,35.11,123000.0,0.0,4.0,2001,Sangubashi,4.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,119000.0,34.02,114000.0,114000.0,4.0,1988,Higashikitazawa,4.0
+1K,Apartment,Sakura,Setagaya-ku,Tokyo,81500.0,19.87,0.0,0.0,2.0,2000,Miyanosaka,10.0
+1K,Apartment,Kyodo,Setagaya-ku,Tokyo,89040.0,19.87,0.0,83500.0,1.0,2013,Chitosefunabashi,7.0
+1LDK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,264110.0,50.08,249000.0,249000.0,3.0,2020,Yoyogi-hachiman,12.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,105000.0,22.54,0.0,97000.0,4.0,2005,Minami Shinjuku,4.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,91550.0,19.87,0.0,0.0,2.0,2011,Higashikitazawa,4.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,470000.0,97.32,900000.0,0.0,3.0,1993,Hatsudai,5.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,220000.0,40.91,210000.0,0.0,4.0,2022,Higashikitazawa,5.0
+1K,Apartment,Tomigaya,Shibuya-ku,Tokyo,112050.0,20.03,0.0,106000.0,2.0,2016,Yoyogi-koen,10.0
+3LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,420000.0,76.75,800000.0,400000.0,5.0,2016,Sangubashi,3.0
+1LDK,Apartment,Uehara,Shibuya-ku,Tokyo,229000.0,56.95,219000.0,0.0,1.0,2005,Higashikitazawa,4.0
+1K,Apartment,Wakabayashi,Setagaya-ku,Tokyo,97050.0,20.76,0.0,45500.0,1.0,2013,Nishitaishidou,3.0
+1K,Apartment,Setagaya,Setagaya-ku,Tokyo,98040.0,27.53,0.0,94500.0,1.0,2016,Kamimachi,7.0
+1K,Apartment,Haramachida,Machida-shi,Tokyo,61550.0,21.6,0.0,0.0,2.0,1999,Machida,9.0
+2LDK,Apartment,Seijo,Setagaya-ku,Tokyo,250770.0,57.03,500000.0,250000.0,7.0,2021,Seijougakuen Mae,1.0
+1LDK,Apartment,Funabashi,Setagaya-ku,Tokyo,160110.0,40.11,150000.0,225000.0,2.0,2023,Chitosefunabashi,10.0
+2LDK,Apartment,Uehara,Shibuya-ku,Tokyo,278000.0,55.36,270000.0,270000.0,2.0,2004,Yoyogiuehara,9.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,101550.0,19.87,0.0,0.0,2.0,2008,Shimokitazawa,5.0
+2LDK,Apartment,Iwado minami,Komae-shi,Tokyo,130550.0,54.62,0.0,0.0,2.0,2014,Kitami,19.0
+1LDK,Apartment,Iwado minami,Komae-shi,Tokyo,125000.0,40.25,125000.0,0.0,1.0,2016,Komae,10.0
+1DK,Apartment,Kyodo,Setagaya-ku,Tokyo,143000.0,36.0,0.0,0.0,2.0,2006,Kyoudou,9.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,125500.0,20.03,0.0,120000.0,2.0,2016,Minami Shinjuku,5.0
+1K,Apartment,Funabashi,Setagaya-ku,Tokyo,83050.0,19.87,0.0,0.0,2.0,2006,Chitosefunabashi,2.0
+1K,Apartment,Asahimachi,Machida-shi,Tokyo,60540.0,20.03,0.0,27500.0,1.0,2000,Machida,16.0
+1K,Apartment,Funabashi,Setagaya-ku,Tokyo,78050.0,19.11,0.0,36000.0,1.0,2003,Chitosefunabashi,7.0
+1K,Apartment,Nakamachi,Machida-shi,Tokyo,74540.0,23.61,0.0,70000.0,1.0,2011,Machida,13.0
+2SDK,Apartment,Uehara,Shibuya-ku,Tokyo,271000.0,49.2,0.0,0.0,2.0,2023,Yoyogiuehara,7.0
+1LDK,Apartment,Inogata,Komae-shi,Tokyo,100550.0,36.86,0.0,0.0,2.0,2012,Komae,10.0
+2LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,285000.0,79.99,550000.0,0.0,2.0,2002,Higashikitazawa,5.0
+1K,Apartment,Chitosedai,Setagaya-ku,Tokyo,71050.0,19.87,0.0,0.0,2.0,2007,Soshigaya Okura,14.0
+3LDK,Apartment,Sasazuka,Shibuya-ku,Tokyo,490000.0,82.39,465000.0,465000.0,19.0,2015,Sasazuka,1.0
+1K,Apartment,Miyasaka,Setagaya-ku,Tokyo,73050.0,19.87,0.0,0.0,2.0,2003,Kyoudou,9.0
+4LDK,House,Sakuragaoka,Setagaya-ku,Tokyo,300000.0,110.68,300000.0,300000.0,,2015,Chitosefunabashi,9.0
+1K,Apartment,Nishinogawa,Komae-shi,Tokyo,71550.0,23.71,0.0,0.0,1.0,2004,Shibazaki,20.0
+1K,Apartment,Kyodo,Setagaya-ku,Tokyo,85040.0,20.28,0.0,79500.0,2.0,2006,Kyoudou,8.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,120050.0,20.03,0.0,0.0,2.0,2016,Minami Shinjuku,1.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,121050.0,21.33,0.0,57500.0,2.0,2015,Minami Shinjuku,1.0
+2LDK,Apartment,Uehara,Shibuya-ku,Tokyo,277000.0,49.94,0.0,0.0,1.0,2023,Yoyogiuehara,7.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,200000.0,34.43,0.0,0.0,3.0,2019,Minami Shinjuku,7.0
+1LDK,Apartment,Hommachi,Shibuya-ku,Tokyo,163000.0,42.14,155000.0,0.0,9.0,2006,Hatsudai,4.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,124500.0,20.03,0.0,0.0,2.0,2016,Minami Shinjuku,3.0
+1K,Apartment,Hatsudai,Shibuya-ku,Tokyo,116000.0,21.02,0.0,105000.0,2.0,2005,Hatsudai,5.0
+1DK,Apartment,Nishihara,Shibuya-ku,Tokyo,136000.0,24.15,0.0,0.0,1.0,2024,Yoyogi-uehara,4.0
+1DK,Apartment,Sasazuka,Shibuya-ku,Tokyo,127000.0,37.0,127000.0,0.0,12.0,1997,Sasazuka,2.0
+2K,Apartment,Daita,Setagaya-ku,Tokyo,86000.0,30.0,86000.0,0.0,2.0,1980,Setagaya Daita,3.0
+1R,Apartment,Kitazawa,Setagaya-ku,Tokyo,137000.0,26.64,0.0,0.0,2.0,2023,Higashikitazawa,4.0
+1K,Apartment,Setagaya,Setagaya-ku,Tokyo,100500.0,26.84,0.0,0.0,1.0,2016,Kamimachi,8.0
+1K,Apartment,Hommachida,Machida-shi,Tokyo,68000.0,23.12,0.0,63000.0,,2017,,
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,125000.0,24.14,0.0,0.0,2.0,2013,Sangubashi,3.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,335000.0,50.86,0.0,0.0,10.0,2023,Minami Shinjuku,3.0
+1K,Apartment,Taishido,Setagaya-ku,Tokyo,113000.0,25.5,105000.0,0.0,3.0,2010,Sangenjaya,9.0
+1R,Apartment,Uehara,Shibuya-ku,Tokyo,75000.0,13.38,0.0,0.0,1.0,2020,Yoyogiuehara,5.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,192000.0,40.52,0.0,0.0,1.0,2017,Shimokitazawa,4.0
+1K,Apartment,Sasazuka,Shibuya-ku,Tokyo,107000.0,19.0,0.0,96000.0,12.0,2003,Sasazuka,4.0
+1R,Apartment,Umegaoka,Setagaya-ku,Tokyo,84000.0,21.81,0.0,0.0,1.0,2019,Goutokuji,6.0
+1K,Apartment,Morino,Machida-shi,Tokyo,66000.0,22.89,0.0,61000.0,,2012,Kobuchi,20.0
+1LDK,Apartment,Hommachi,Shibuya-ku,Tokyo,123000.0,38.0,246000.0,0.0,1.0,1994,Nishishinjuku Go Choume,7.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,115000.0,24.73,105000.0,105000.0,4.0,2021,Minami Shinjuku,6.0
+1K,Apartment,Hanegi,Setagaya-ku,Tokyo,94500.0,21.47,0.0,89000.0,2.0,2013,Daitabashi,8.0
+1K,Apartment,Hommachida,Machida-shi,Tokyo,70000.0,25.17,0.0,65000.0,,2016,,
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,170110.0,22.25,160000.0,160000.0,8.0,2006,Yoyogi,3.0
+2K,Apartment,Mishuku,Setagaya-ku,Tokyo,82000.0,28.0,82000.0,0.0,2.0,1973,Ikenoue,10.0
+2K,Apartment,Taishido,Setagaya-ku,Tokyo,123000.0,37.0,123000.0,0.0,1.0,2000,Nishitaishidou,5.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,143000.0,33.83,143000.0,143000.0,1.0,2004,Minami Shinjuku,7.0
+1K,Apartment,Yamazakimachi,Machida-shi,Tokyo,70000.0,25.05,0.0,65000.0,,2015,,
+2K,Apartment,Taishido,Setagaya-ku,Tokyo,121000.0,36.0,121000.0,0.0,2.0,1989,Sangenjaya,12.0
+1K,Apartment,Tokiwamachi,Machida-shi,Tokyo,56000.0,23.61,0.0,51000.0,,2010,,
+2LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,298000.0,56.19,596000.0,298000.0,8.0,2004,Yoyogi-koen,7.0
+1LDK,Apartment,Nishihara,Shibuya-ku,Tokyo,174000.0,51.7,0.0,168000.0,2.0,2014,Yoyogiuehara,5.0
+1K,Apartment,Kamiyoga,Setagaya-ku,Tokyo,70000.0,27.07,70000.0,0.0,1.0,1990,Youga,12.0
+1K,Apartment,Tamagawagakuen,Machida-shi,Tokyo,70000.0,23.71,0.0,0.0,,2013,Tamagawagakuen Mae,8.0
+1K,Apartment,Seijo,Setagaya-ku,Tokyo,91500.0,22.98,0.0,0.0,1.0,2011,Seijougakuen Mae,11.0
+1K,Apartment,Shinkoji,Machida-shi,Tokyo,56000.0,22.35,0.0,51000.0,,2010,,
+1DK,Apartment,Yoyogi,Shibuya-ku,Tokyo,120000.0,30.66,120000.0,0.0,1.0,1988,Sangubashi,7.0
+1K,Apartment,Sasazuka,Shibuya-ku,Tokyo,144000.0,21.25,0.0,133000.0,2.0,2016,Sasazuka,4.0
+2K,Apartment,Daita,Setagaya-ku,Tokyo,86000.0,30.0,86000.0,0.0,2.0,1984,Umegaoka,6.0
+1K,Apartment,Nozutamachi,Machida-shi,Tokyo,67000.0,30.0,0.0,62000.0,,2011,,
+1LDK,Apartment,Ikejiri,Setagaya-ku,Tokyo,162000.0,45.52,151000.0,151000.0,2.0,2013,Komaba Toudai Mae,10.0
+1R,Apartment,Miyasaka,Setagaya-ku,Tokyo,237900.0,31.0,0.0,0.0,1.0,2018,Kyoudou,3.0
+2LDK,Apartment,Sasazuka,Shibuya-ku,Tokyo,263000.0,54.26,0.0,263000.0,7.0,2022,Sasazuka,2.0
+3LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,448000.0,84.67,438000.0,438000.0,2.0,2024,Sangubashi,5.0
+1LDK,Apartment,Daizawa,Setagaya-ku,Tokyo,159640.0,40.13,153000.0,0.0,2.0,2020,Shimokitazawa,9.0
+1LDK,Apartment,Daizawa,Setagaya-ku,Tokyo,161000.0,33.31,149000.0,149000.0,3.0,2010,Ikenoue,4.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,100000.0,20.68,0.0,0.0,1.0,2008,Yoyogi-hachiman,9.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,190000.0,40.91,180000.0,0.0,2.0,2022,Higashikitazawa,5.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,219000.0,34.53,0.0,0.0,4.0,2023,Minami Shinjuku,2.0
+1R,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,280000.0,50.08,265000.0,265000.0,13.0,2020,Shinsen,10.0
+1K,Apartment,Okura,Setagaya-ku,Tokyo,66500.0,22.35,0.0,0.0,2.0,2007,Seijougakuen Mae,24.0
+1LDK,Apartment,Oyamacho,Shibuya-ku,Tokyo,110000.0,35.0,110000.0,0.0,2.0,1980,Yoyogiuehara,9.0
+1DK,Apartment,Nishihara,Shibuya-ku,Tokyo,120000.0,27.82,0.0,0.0,1.0,2022,Yoyogiuehara,8.0
+1LDK,Apartment,Daita,Setagaya-ku,Tokyo,189110.0,37.89,174000.0,0.0,3.0,2021,Setagaya Daita,2.0
+2DK,Apartment,Wakabayashi,Setagaya-ku,Tokyo,159000.0,51.92,159000.0,159000.0,1.0,2017,Wakabayashi,9.0
+1R,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,92500.0,14.28,0.0,83000.0,2.0,1985,Yoyogi-hachiman,7.0
+1LDK,Apartment,Uehara,Shibuya-ku,Tokyo,184500.0,33.5,166500.0,166500.0,3.0,2017,Higashikitazawa,8.0
+3LDK,House,Daita,Setagaya-ku,Tokyo,360330.0,78.54,720000.0,360000.0,,1996,Setagaya Daita,4.0
+1LDK,Apartment,Uehara,Shibuya-ku,Tokyo,110000.0,29.12,107000.0,107000.0,1.0,2006,Yoyogiuehara,5.0
+1K,Apartment,Izumihoncho,Komae-shi,Tokyo,75550.0,25.87,0.0,0.0,1.0,2012,Komae,15.0
+1K,Apartment,Kitami,Setagaya-ku,Tokyo,74040.0,23.27,0.0,68500.0,1.0,2007,Kitami,12.0
+1K,Apartment,Nakaizumi,Komae-shi,Tokyo,59050.0,21.94,0.0,0.0,1.0,2003,Komae,11.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,470000.0,97.32,900000.0,0.0,3.0,1993,Hatsudai,5.0
+1R,Apartment,Hanegi,Setagaya-ku,Tokyo,132830.0,14.46,0.0,0.0,1.0,2016,Shindaita,2.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,94540.0,26.0,0.0,0.0,2.0,2011,Setagaya Daita,8.0
+1R,Apartment,Okubo,Shinjuku-ku,Tokyo,118000.0,18.44,0.0,0.0,3.0,2022,Higashi-Shinjuku,5.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,153000.0,27.43,0.0,0.0,2.0,2023,Sangubashi,5.0
+1DK,Apartment,Hommachi,Shibuya-ku,Tokyo,154980.0,33.79,0.0,0.0,9.0,2021,Hatagaya,6.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,95000.0,19.8,87000.0,87000.0,7.0,2003,Minami Shinjuku,3.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,110000.0,30.03,107000.0,107000.0,1.0,2014,Minami Shinjuku,5.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,202000.0,40.91,192000.0,0.0,2.0,2022,Higashikitazawa,5.0
+1K,Apartment,Soshigaya,Setagaya-ku,Tokyo,70600.0,15.8,0.0,0.0,1.0,2019,Soshigaya Okura,9.0
+1LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,277500.0,40.9,472000.0,0.0,4.0,2023,Nishi-shinjuku,4.0
+1R,Apartment,Hatsudai,Shibuya-ku,Tokyo,114000.0,22.16,106000.0,0.0,10.0,2007,Hatsudai,1.0
+1K,Apartment,Akatsutsumi,Setagaya-ku,Tokyo,87050.0,19.87,0.0,0.0,3.0,2013,Yamashita,6.0
+1LDK,Apartment,Hommachi,Shibuya-ku,Tokyo,200000.0,45.77,192000.0,192000.0,14.0,2006,Hatsudai,4.0
+1DK,Apartment,Tomigaya,Shibuya-ku,Tokyo,104000.0,30.3,100000.0,100000.0,1.0,2001,Yoyogi-hachiman,6.0
+1R,Apartment,Kitazawa,Setagaya-ku,Tokyo,134000.0,30.78,0.0,0.0,7.0,1985,Shimokitazawa,3.0
+1K,Apartment,Tomigaya,Shibuya-ku,Tokyo,130000.0,38.0,125000.0,125000.0,3.0,1964,Yoyogi-koen,8.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,175000.0,45.95,170000.0,170000.0,2.0,1979,Sangubashi,6.0
+2K,Apartment,Kyodo,Setagaya-ku,Tokyo,117500.0,38.92,101000.0,0.0,3.0,2007,Chitosefunabashi,6.0
+1R,Apartment,Miyasaka,Setagaya-ku,Tokyo,107000.0,35.49,105000.0,105000.0,2.0,2014,Kyoudou,7.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,159000.0,44.37,149000.0,0.0,1.0,2009,Sangubashi,7.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,116050.0,22.54,0.0,0.0,2.0,2019,Sangubashi,6.0
+1K,Apartment,Kanai,Machida-shi,Tokyo,58000.0,26.08,0.0,53000.0,,2005,,
+1K,Apartment,Kanamori,Machida-shi,Tokyo,59000.0,19.87,0.0,0.0,,2008,,
+1R,Apartment,Uehara,Shibuya-ku,Tokyo,161000.0,36.11,0.0,0.0,8.0,2003,Higashikitazawa,9.0
+1K,Apartment,Kanamori,Machida-shi,Tokyo,70000.0,19.87,0.0,0.0,,2006,Machida,21.0
+1K,Apartment,Nakaizumi,Komae-shi,Tokyo,67000.0,21.94,0.0,62000.0,,2003,Komae,13.0
+1K,Apartment,Tsurukawa,Machida-shi,Tokyo,55000.0,19.87,0.0,50000.0,,2007,,
+1K,Apartment,Udagawacho,Shibuya-ku,Tokyo,135000.0,26.02,127000.0,0.0,8.0,2006,Shibuya,7.0
+1K,Apartment,Tomigaya,Shibuya-ku,Tokyo,90000.0,20.2,84000.0,84000.0,4.0,2005,Yoyogi-koen,10.0
+1K,Apartment,Tsurukawa,Machida-shi,Tokyo,49000.0,19.87,0.0,44000.0,,2003,,
+1K,Apartment,Nishinogawa,Komae-shi,Tokyo,71000.0,26.08,0.0,0.0,,2004,Shibazaki,20.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,231330.0,62.15,221000.0,221000.0,3.0,2006,Hatsudai,5.0
+1R,Apartment,Uehara,Shibuya-ku,Tokyo,118000.0,27.58,111000.0,0.0,3.0,2011,Higashikitazawa,5.0
+1K,Apartment,Hatsudai,Shibuya-ku,Tokyo,114000.0,20.71,108000.0,0.0,4.0,2015,Yoyogi-hachiman,9.0
+1R,Apartment,Soshigaya,Setagaya-ku,Tokyo,79000.0,25.02,76000.0,0.0,1.0,2017,Soshigaya Okura,9.0
+1K,Apartment,Asahimachi,Machida-shi,Tokyo,65000.0,19.87,0.0,60000.0,,2008,Machida,20.0
+1K,Apartment,Gotokuji,Setagaya-ku,Tokyo,100000.0,26.19,90000.0,90000.0,4.0,2007,Goutokuji,5.0
+1K,Apartment,Kanaigaoka,Machida-shi,Tokyo,69000.0,19.87,0.0,0.0,,2007,Tamagawagakuen Mae,16.0
+1K,Apartment,Kanai,Machida-shi,Tokyo,63000.0,19.87,0.0,58000.0,,2007,,
+1K,Apartment,Haramachida,Machida-shi,Tokyo,69000.0,19.87,0.0,64000.0,,2005,Machida,15.0
+1K,Apartment,Morino,Machida-shi,Tokyo,69000.0,19.87,0.0,64000.0,,2008,Machida,17.0
+1LDK,Apartment,Uehara,Shibuya-ku,Tokyo,229000.0,56.95,219000.0,0.0,1.0,2005,Higashikitazawa,5.0
+1LDK,Apartment,Unane,Setagaya-ku,Tokyo,98000.0,46.58,0.0,0.0,1.0,2023,Kuji,17.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,213000.0,40.58,0.0,0.0,2.0,2024,Ikenoue,3.0
+1K,Apartment,Tamagawagakuen,Machida-shi,Tokyo,58000.0,19.87,0.0,53000.0,,2003,Tamagawagakuen Mae,13.0
+1LDK,Apartment,Hatsudai,Shibuya-ku,Tokyo,202000.0,35.45,0.0,0.0,4.0,2023,Yoyogi-hachiman,10.0
+1K,Apartment,Hommachi,Shibuya-ku,Tokyo,120000.0,20.29,0.0,109000.0,5.0,2006,Hatsudai,5.0
+1K,Apartment,Nozutamachi,Machida-shi,Tokyo,52000.0,19.87,0.0,0.0,,2005,,
+1K,Apartment,Hommachida,Machida-shi,Tokyo,59000.0,19.87,0.0,54000.0,,2008,,
+1K,Apartment,Okuramachi,Machida-shi,Tokyo,69000.0,22.68,0.0,64000.0,,2005,Tsurukawa,9.0
+1K,Apartment,Izumihoncho,Komae-shi,Tokyo,71000.0,20.42,0.0,66000.0,,2005,Komae,11.0
+1K,Apartment,Kanai,Machida-shi,Tokyo,63000.0,26.08,0.0,58000.0,,2003,Tsurukawa,24.0
+1K,Apartment,Okuramachi,Machida-shi,Tokyo,56000.0,26.08,0.0,51000.0,,2003,,
+1K,Apartment,Kogasaka,Machida-shi,Tokyo,54000.0,19.87,0.0,0.0,2.0,2006,Machida,18.0
+1K,Apartment,Tokiwamachi,Machida-shi,Tokyo,50000.0,19.87,0.0,45000.0,,2005,,
+1K,Apartment,Soshigaya,Setagaya-ku,Tokyo,104000.0,21.41,94000.0,0.0,5.0,2023,Soshigaya Okura,4.0
+3LDK,Apartment,Kinuta,Setagaya-ku,Tokyo,305110.0,77.49,285000.0,570000.0,4.0,2008,Soshigaya Okura,10.0
+1K,Apartment,Sasazuka,Shibuya-ku,Tokyo,76000.0,18.76,69000.0,69000.0,2.0,1995,Sasazuka,3.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,72000.0,19.13,69000.0,69000.0,1.0,1990,Sangubashi,4.0
+2LDK,Apartment,Iwado minami,Komae-shi,Tokyo,120550.0,54.62,0.0,0.0,2.0,2014,Komae,20.0
+1K,Apartment,Shinkoji,Machida-shi,Tokyo,64000.0,19.87,0.0,59000.0,,2006,,
+1DK,Apartment,Hatsudai,Shibuya-ku,Tokyo,117000.0,24.26,0.0,0.0,1.0,2023,Hatsudai,7.0
+1R,Apartment,Hommachi,Shibuya-ku,Tokyo,174000.0,46.08,167000.0,167000.0,1.0,2006,Hatsudai,2.0
+1K,Apartment,Kasuya,Setagaya-ku,Tokyo,69000.0,22.0,0.0,0.0,1.0,1996,Chitose Karasuyama,10.0
+3LDK,House,Komaba,Meguro-ku,Tokyo,298000.0,75.97,298000.0,0.0,,2024,Komaba Toudai Mae,7.0
+1K,Apartment,Okuramachi,Machida-shi,Tokyo,56000.0,19.87,0.0,49000.0,,2008,,
+1K,Apartment,Nozutamachi,Machida-shi,Tokyo,55000.0,26.08,0.0,0.0,,2005,,
+1K,Apartment,Nishinogawa,Komae-shi,Tokyo,64000.0,21.65,0.0,0.0,,2008,Shibazaki,21.0
+1K,Apartment,Hommachi,Shibuya-ku,Tokyo,105000.0,22.78,0.0,0.0,7.0,2007,Hatsudai,1.0
+1K,Apartment,Onojimachi,Machida-shi,Tokyo,58000.0,19.87,0.0,51000.0,,2009,,
+1K,Apartment,Hommachi,Shibuya-ku,Tokyo,106000.0,23.66,0.0,0.0,5.0,2007,Hatsudai,1.0
+1K,Apartment,Kanamori,Machida-shi,Tokyo,70000.0,19.87,0.0,0.0,,2006,Machida,21.0
+1K,Apartment,Nozutamachi,Machida-shi,Tokyo,54000.0,19.87,0.0,49000.0,,2006,,
+3LDK,Apartment,Uehara,Shibuya-ku,Tokyo,310000.0,94.56,620000.0,0.0,3.0,1999,Yoyogiuehara,6.0
+1K,Apartment,Miwamachi,Machida-shi,Tokyo,57000.0,19.87,0.0,52000.0,,2005,,
+1K,Apartment,Tsurukawa,Machida-shi,Tokyo,49000.0,19.87,0.0,44000.0,,2005,,
+1K,Apartment,Tamagawagakuen,Machida-shi,Tokyo,62000.0,23.71,0.0,57000.0,,2004,Tamagawagakuen Mae,7.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,158000.0,36.3,158000.0,158000.0,2.0,2017,Shimokitazawa,3.0
+2DK,Apartment,Yoyogi,Shibuya-ku,Tokyo,132000.0,40.92,132000.0,132000.0,2.0,1989,Sangubashi,3.0
+1K,Apartment,Nogaya,Machida-shi,Tokyo,67000.0,19.6,0.0,0.0,,2008,Tsurukawa,12.0
+1K,Apartment,Kanaigaoka,Machida-shi,Tokyo,53000.0,19.87,0.0,0.0,,2007,Tamagawagakuen Mae,18.0
+1K,Apartment,Hommachi,Shibuya-ku,Tokyo,119000.0,20.29,0.0,108000.0,3.0,2006,Hatsudai,5.0
+1K,Apartment,Unane,Setagaya-ku,Tokyo,69500.0,26.08,0.0,64000.0,,2005,,
+1K,Apartment,Kogasaka,Machida-shi,Tokyo,65000.0,19.87,0.0,60000.0,,2006,Machida,18.0
+1K,Apartment,Nakamachi,Machida-shi,Tokyo,59000.0,19.87,0.0,54000.0,,2005,Machida,19.0
+1R,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,92000.0,23.8,89000.0,89000.0,2.0,2001,Hatsudai,5.0
+1K,Apartment,Chitosedai,Setagaya-ku,Tokyo,71500.0,19.87,0.0,66000.0,,2007,Soshigaya Okura,15.0
+2K,Apartment,Yoyogi,Shibuya-ku,Tokyo,140000.0,47.85,135000.0,135000.0,3.0,1973,Sangubashi,5.0
+1K,Apartment,Kanamori,Machida-shi,Tokyo,69000.0,19.87,0.0,64000.0,,2006,Machida,21.0
+1K,Apartment,Hommachi,Shibuya-ku,Tokyo,102000.0,23.66,0.0,0.0,2.0,2007,Hatsudai,1.0
+1K,Apartment,Nozutamachi,Machida-shi,Tokyo,50000.0,19.87,0.0,0.0,,2005,,
+1K,Apartment,Shinkojimachi,Machida-shi,Tokyo,50000.0,19.87,0.0,45000.0,,2009,,
+1K,Apartment,Hommachida,Machida-shi,Tokyo,55000.0,19.87,0.0,50000.0,,2004,,
+1K,Apartment,Kitami,Setagaya-ku,Tokyo,68500.0,23.61,0.0,63000.0,,2007,Kitami,14.0
+1R,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,88940.0,20.12,84000.0,0.0,1.0,2019,Chitosefunabashi,10.0
+1R,Apartment,Tomigaya,Shibuya-ku,Tokyo,171000.0,37.67,171000.0,0.0,5.0,2005,Yoyogi-koen,3.0
+1K,Apartment,Hommachi,Shibuya-ku,Tokyo,119000.0,29.71,111000.0,0.0,4.0,2006,Hatagaya,5.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,107000.0,20.32,0.0,0.0,7.0,2005,Minami Shinjuku,5.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,141000.0,33.83,262000.0,0.0,1.0,2003,Sangubashi,7.0
+1LDK,Apartment,Uehara,Shibuya-ku,Tokyo,250000.0,71.12,250000.0,250000.0,2.0,2011,Yoyogiuehara,2.0
+2DK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,110000.0,42.8,102000.0,0.0,4.0,1983,Hatsudai,7.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,107000.0,20.0,0.0,0.0,7.0,2005,Minami Shinjuku,5.0
+1R,Apartment,Gotokuji,Setagaya-ku,Tokyo,78000.0,26.7,0.0,0.0,1.0,2022,Miyanosaka,4.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,103000.0,20.41,0.0,0.0,4.0,2005,Minami Shinjuku,5.0
+1K,Apartment,Kisohigashi,Machida-shi,Tokyo,62550.0,28.15,0.0,0.0,2.0,2012,,
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,105000.0,20.0,0.0,0.0,4.0,2005,Minami Shinjuku,5.0
+1SLDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,211000.0,41.12,211000.0,0.0,9.0,2005,Yoyogi-koen,3.0
+1R,Apartment,Nishihara,Shibuya-ku,Tokyo,99000.0,16.98,0.0,0.0,1.0,2022,Yoyogiuehara,7.0
+3SLDK,House,Uehara,Shibuya-ku,Tokyo,2500000.0,329.43,7500000.0,2500000.0,,2005,Yoyogiuehara,8.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,300000.0,70.99,290000.0,290000.0,3.0,1983,Sangubashi,2.0
+1K,Apartment,Tokiwamachi,Machida-shi,Tokyo,50550.0,19.87,0.0,0.0,2.0,2002,,
+1K,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,70050.0,19.87,0.0,32000.0,1.0,2003,Chitosefunabashi,13.0
+1K,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,122400.0,25.29,0.0,0.0,2.0,2020,Chitosefunabashi,9.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,95000.0,26.07,85000.0,0.0,5.0,1999,Hatsudai,4.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,106000.0,22.54,0.0,98000.0,6.0,2005,Minami Shinjuku,5.0
+1LDK,Apartment,Motoyoyogicho,Shibuya-ku,Tokyo,325000.0,60.53,0.0,300000.0,1.0,2020,Yoyogi-hachiman,9.0
+1LDK,Apartment,Funabashi,Setagaya-ku,Tokyo,118050.0,39.74,0.0,112000.0,3.0,2006,Chitosefunabashi,2.0
+2LDK,Apartment,Komaba,Meguro-ku,Tokyo,280000.0,73.06,268000.0,268000.0,2.0,2015,Komaba Toudai Mae,7.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,238000.0,33.73,213000.0,213000.0,4.0,2022,Sangubashi,4.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,105000.0,22.54,0.0,0.0,2.0,2005,Minami Shinjuku,5.0
+1LDK,Apartment,Hanegi,Setagaya-ku,Tokyo,183000.0,40.2,0.0,0.0,1.0,2023,Higashimatsubara,2.0
+1R,Apartment,Hatsudai,Shibuya-ku,Tokyo,85000.0,21.52,77000.0,0.0,8.0,2006,Hatsudai,8.0
+1R,Apartment,Kitazawa,Setagaya-ku,Tokyo,106000.0,27.73,102000.0,0.0,2.0,2014,Sasazuka,7.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,164000.0,22.23,144000.0,0.0,6.0,2022,Sangubashi,4.0
+1K,Apartment,Hatsudai,Shibuya-ku,Tokyo,129000.0,24.36,0.0,118000.0,5.0,2006,Yoyogi-koen,9.0
+1DK,Apartment,Miyasaka,Setagaya-ku,Tokyo,99000.0,18.0,81000.0,0.0,1.0,2023,Yamashita,1.0
+1R,Apartment,Sasazuka,Shibuya-ku,Tokyo,90000.0,26.28,85000.0,0.0,7.0,2003,Sasazuka,3.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,120000.0,27.21,114000.0,0.0,1.0,2008,Minami Shinjuku,5.0
+1K,Apartment,Uehara,Shibuya-ku,Tokyo,119000.0,24.4,0.0,108000.0,1.0,1991,Yoyogiuehara,5.0
+1K,Apartment,Inogata,Komae-shi,Tokyo,40000.0,16.94,0.0,0.0,2.0,1987,Izumitamagawa,7.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,89000.0,20.8,79000.0,0.0,2.0,1998,Shindaita,1.0
+3LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,520000.0,89.31,500000.0,500000.0,55.0,2017,Nishishinjuku Go Choume,7.0
+1K,Apartment,Gotokuji,Setagaya-ku,Tokyo,95500.0,26.19,0.0,0.0,2.0,2007,Goutokuji,5.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,66000.0,16.81,60000.0,60000.0,2.0,1991,Setagaya Daita,5.0
+1DK,Apartment,Haramachida,Machida-shi,Tokyo,109000.0,25.48,0.0,99000.0,8.0,2024,Machida,7.0
+1R,Apartment,Daizawa,Setagaya-ku,Tokyo,59000.0,15.28,0.0,0.0,1.0,1969,Ikenoue,8.0
+2K,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,100000.0,40.0,100000.0,100000.0,4.0,1977,Yoyogi-hachiman,9.0
+1R,Apartment,Miyasaka,Setagaya-ku,Tokyo,55000.0,16.51,50000.0,0.0,1.0,1992,Miyanosaka,6.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,215000.0,40.58,0.0,0.0,4.0,2024,Ikenoue,1.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,92000.0,26.96,81000.0,0.0,10.0,1975,Hatsudai,4.0
+1LDK,Apartment,Daizawa,Setagaya-ku,Tokyo,205000.0,38.23,200000.0,200000.0,4.0,2021,Shimokitazawa,4.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,111000.0,16.2,0.0,100000.0,3.0,1991,Yoyogi-koen,6.0
+1LDK,Apartment,Daita,Setagaya-ku,Tokyo,150000.0,36.01,0.0,0.0,3.0,2021,Setagaya Daita,4.0
+2LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,290000.0,65.43,280000.0,280000.0,3.0,2015,Yoyogi-koen,12.0
+1K,Apartment,Tomigaya,Shibuya-ku,Tokyo,102000.0,27.65,95000.0,0.0,2.0,2003,Yoyogi-hachiman,10.0
+1DK,Apartment,Tomigaya,Shibuya-ku,Tokyo,161000.0,33.21,322000.0,0.0,7.0,2004,Yoyogi-hachiman,5.0
+1K,Apartment,Hatsudai,Shibuya-ku,Tokyo,128000.0,22.25,0.0,117000.0,4.0,2006,Yoyogi-koen,9.0
+2LDK,Apartment,Kinuta,Setagaya-ku,Tokyo,235000.0,63.59,220000.0,330000.0,3.0,2021,Seijougakuen Mae,9.0
+1K,Apartment,Nishihara,Shibuya-ku,Tokyo,85500.0,23.7,0.0,0.0,3.0,2002,Hatagaya,6.0
+3LDK,Apartment,Nishihara,Shibuya-ku,Tokyo,858500.0,135.55,850000.0,850000.0,4.0,2008,Yoyogiuehara,6.0
+1K,Apartment,Tomigaya,Shibuya-ku,Tokyo,133000.0,21.69,0.0,122000.0,4.0,2003,Yoyogi-koen,10.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,109000.0,16.2,0.0,98000.0,2.0,1991,Yoyogi-koen,6.0
+1LDK,Apartment,Daita,Setagaya-ku,Tokyo,245000.0,53.42,235000.0,0.0,3.0,2008,Setagaya Daita,4.0
+1R,Apartment,Nishihara,Shibuya-ku,Tokyo,146000.0,21.29,0.0,135000.0,1.0,2019,Yoyogiuehara,7.0
+3LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,1750000.0,157.0,3460000.0,1730000.0,3.0,2007,Sangubashi,7.0
+2LDK,Apartment,Iwado minami,Komae-shi,Tokyo,114540.0,48.14,111000.0,0.0,1.0,2014,Komae,19.0
+1R,Apartment,Hommachi,Shibuya-ku,Tokyo,119000.0,20.2,0.0,108000.0,8.0,2006,Hatsudai,5.0
+1K,Apartment,Tomigaya,Shibuya-ku,Tokyo,124000.0,22.67,0.0,113000.0,3.0,2009,Yoyogi-hachiman,9.0
+1LDK,Apartment,Kinuta,Setagaya-ku,Tokyo,146000.0,36.82,138000.0,138000.0,4.0,2013,Soshigaya Okura,9.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,240000.0,54.17,230000.0,230000.0,2.0,2024,Higashikitazawa,2.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,260000.0,49.6,260000.0,390000.0,3.0,2020,Yoyogi-koen,1.0
+1R,Apartment,Nishihara,Shibuya-ku,Tokyo,151000.0,29.1,0.0,140000.0,2.0,2019,Yoyogiuehara,7.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,175000.0,44.03,167000.0,0.0,3.0,2017,Higashikitazawa,7.0
+1DK,Apartment,Yoyogi,Shibuya-ku,Tokyo,149000.0,34.02,143000.0,143000.0,2.0,2006,Sangubashi,5.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,205000.0,40.02,190000.0,0.0,3.0,2019,Yoyogi-hachiman,12.0
+2LDK,Apartment,Hatsudai,Shibuya-ku,Tokyo,360000.0,72.27,720000.0,360000.0,5.0,2007,Hatsudai,8.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,187000.0,40.05,187000.0,0.0,6.0,2005,Yoyogi-hachiman,3.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,305000.0,61.1,0.0,0.0,2.0,2023,Sangubashi,5.0
+3LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,581000.0,83.44,580000.0,580000.0,3.0,2023,Sangubashi,5.0
+1R,Apartment,Gotokuji,Setagaya-ku,Tokyo,81000.0,16.74,0.0,70000.0,1.0,1991,Goutokuji,5.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,190000.0,36.91,175000.0,0.0,4.0,2019,Yoyogi-hachiman,12.0
+1LDK,Apartment,Daita,Setagaya-ku,Tokyo,250000.0,45.6,240000.0,240000.0,3.0,2021,Shimokitazawa,5.0
+2DK,Apartment,Funabashi,Setagaya-ku,Tokyo,131500.0,53.0,254000.0,0.0,5.0,2007,Kyoudou,12.0
+1DK,Apartment,Oyamacho,Shibuya-ku,Tokyo,191500.0,33.82,173500.0,347000.0,6.0,2020,Yoyogiuehara,3.0
+3LDK,Apartment,Kamisoshigaya,Setagaya-ku,Tokyo,179700.0,67.0,352000.0,0.0,12.0,2002,Seijougakuen Mae,7.0
+3LDK,Apartment,Sengawacho,Chofu-shi,Tokyo,139500.0,76.0,270000.0,0.0,5.0,2007,Sengawa,10.0
+1R,Apartment,Hatsudai,Shibuya-ku,Tokyo,89000.0,21.56,80000.0,80000.0,6.0,2003,Hatsudai,2.0
+1R,Apartment,Funabashi,Setagaya-ku,Tokyo,69000.0,18.91,58000.0,150000.0,3.0,1991,Chitosefunabashi,8.0
+2LDK,Apartment,Kitami,Setagaya-ku,Tokyo,148500.0,67.0,290000.0,0.0,6.0,2003,Seijougakuen Mae,10.0
+2LDK,Apartment,Kyodo,Setagaya-ku,Tokyo,141800.0,60.0,276000.0,0.0,7.0,2001,Kyoudou,10.0
+1R,Apartment,Kyodo,Setagaya-ku,Tokyo,80000.0,17.88,0.0,69000.0,2.0,1991,Kyoudou,7.0
+1R,Apartment,Wakabayashi,Setagaya-ku,Tokyo,69000.0,10.0,0.0,0.0,2.0,2020,Wakabayashi,5.0
+1K,Apartment,Hommachi,Shibuya-ku,Tokyo,119000.0,20.3,0.0,108000.0,2.0,2006,Hatsudai,5.0
+2LDK,Apartment,Daizawa,Setagaya-ku,Tokyo,320000.0,58.49,315000.0,0.0,3.0,2023,Ikenoue,6.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,60000.0,19.8,59000.0,0.0,2.0,1985,Setagaya Daita,11.0
+1K,Apartment,Hatsudai,Shibuya-ku,Tokyo,132000.0,22.01,0.0,121000.0,5.0,2006,Yoyogi-koen,9.0
+1DK,Apartment,Kyodo,Setagaya-ku,Tokyo,90000.0,41.46,85000.0,0.0,2.0,1986,Kyoudou,3.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,132000.0,22.08,0.0,121000.0,5.0,2002,Yoyogi,6.0
+1K,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,50000.0,18.27,0.0,0.0,2.0,1990,Chitosefunabashi,10.0
+2LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,252000.0,68.14,0.0,246000.0,5.0,2021,Sangubashi,5.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,208000.0,34.2,0.0,0.0,3.0,2023,Minami Shinjuku,2.0
+1K,Apartment,Hommachi,Shibuya-ku,Tokyo,118000.0,21.7,0.0,107000.0,10.0,2003,Hatsudai,5.0
+1R,Apartment,Oyamacho,Shibuya-ku,Tokyo,122000.0,19.91,0.0,111000.0,3.0,2003,Yoyogiuehara,2.0
+1R,Apartment,Kyodo,Setagaya-ku,Tokyo,55000.0,14.47,49000.0,0.0,4.0,1982,Kyoudou,5.0
+1K,Apartment,Tomigaya,Shibuya-ku,Tokyo,124000.0,20.8,0.0,113000.0,1.0,2009,Yoyogi-hachiman,9.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,119000.0,21.0,0.0,0.0,4.0,2021,Minami Shinjuku,5.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,115000.0,25.0,0.0,0.0,1.0,2019,Sangubashi,6.0
+1R,Apartment,Ikejiri,Setagaya-ku,Tokyo,77000.0,18.63,71500.0,0.0,3.0,1997,Ikenoue,9.0
+3LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,1750000.0,157.0,1730000.0,1730000.0,3.0,2007,Sangubashi,5.0
+1K,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,200800.0,32.23,0.0,0.0,13.0,2018,Hatsudai,8.0
+1LDK,Apartment,Kyodo,Setagaya-ku,Tokyo,145000.0,53.46,138000.0,0.0,1.0,1984,Kyoudou,6.0
+1K,Apartment,Soshigaya,Setagaya-ku,Tokyo,59000.0,17.0,56000.0,0.0,1.0,1996,Soshigaya Okura,7.0
+3LDK,Apartment,Komaba,Meguro-ku,Tokyo,303330.0,64.63,300000.0,300000.0,4.0,1979,Yoyogi-uehara,10.0
+1R,Terrace house,Kinuta,Setagaya-ku,Tokyo,93000.0,30.0,89000.0,0.0,2.0,2015,Soshigaya Okura,4.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,215000.0,43.86,396000.0,198000.0,4.0,2021,Sangubashi,3.0
+1R,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,78000.0,22.1,69000.0,0.0,7.0,1984,Hatsudai,8.0
+1K,Apartment,Motoyoyogicho,Shibuya-ku,Tokyo,67130.0,14.88,0.0,0.0,1.0,1991,Yoyogiuehara,8.0
+2LDK,Apartment,Daita,Setagaya-ku,Tokyo,255000.0,61.31,80000.0,0.0,2.0,2024,Setagaya Daita,10.0
+1R,Apartment,Sakura,Setagaya-ku,Tokyo,58000.0,16.19,53000.0,0.0,2.0,1991,Kamimachi,8.0
+1K,Apartment,Kitazawa,Setagaya-ku,Tokyo,84130.0,18.65,0.0,0.0,1.0,2018,Sasazuka,8.0
+1R,Apartment,Soshigaya,Setagaya-ku,Tokyo,56000.0,13.1,53000.0,0.0,2.0,1991,Soshigaya Okura,4.0
+1DK,Terrace house,Kyodo,Setagaya-ku,Tokyo,115000.0,28.18,112000.0,0.0,3.0,2010,Chitosefunabashi,6.0
+1K,Apartment,Miyasaka,Setagaya-ku,Tokyo,88000.0,19.26,85000.0,0.0,3.0,2007,Kyoudou,3.0
+1R,Apartment,Yoyogi,Shibuya-ku,Tokyo,261000.0,45.31,0.0,0.0,3.0,2023,Sangubashi,5.0
+1R,Apartment,Chitosedai,Setagaya-ku,Tokyo,58000.0,20.65,53000.0,0.0,1.0,1992,Hachimanyama,17.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,192000.0,37.1,0.0,0.0,6.0,2023,Yoyogi-koen,8.0
+1R,Apartment,Sasazuka,Shibuya-ku,Tokyo,68000.0,18.0,66000.0,0.0,1.0,1989,Sasazuka,2.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,160000.0,43.12,300000.0,0.0,3.0,1982,Minami Shinjuku,5.0
+1LDK,Apartment,Umegaoka,Setagaya-ku,Tokyo,160000.0,51.49,310000.0,0.0,3.0,2007,Goutokuji,4.0
+1DK,Apartment,Komazawa,Setagaya-ku,Tokyo,85130.0,24.96,0.0,0.0,2.0,1984,Komazawa-daigaku,8.0
+1SK,Apartment,Taishido,Setagaya-ku,Tokyo,114500.0,25.5,105000.0,105000.0,3.0,2010,Nishitaishidou,9.0
+1R,Apartment,Daita,Setagaya-ku,Tokyo,206000.0,40.04,0.0,0.0,3.0,2024,Higashimatsubara,2.0
+1LDK,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,177000.0,40.48,167000.0,0.0,2.0,2022,Chitosefunabashi,7.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,148000.0,40.82,145000.0,145000.0,9.0,2003,Minami Shinjuku,3.0
+1R,Apartment,Daita,Setagaya-ku,Tokyo,67000.0,10.82,0.0,0.0,1.0,2021,Setagaya Daita,9.0
+2LDK,House,Daita,Setagaya-ku,Tokyo,350550.0,71.2,700000.0,350000.0,,2024,Setagaya Daita,8.0
+1R,Apartment,Matsubara,Setagaya-ku,Tokyo,47330.0,9.88,0.0,0.0,2.0,1980,Shimotakaido,6.0
+2LDK,Apartment,Hatsudai,Shibuya-ku,Tokyo,118000.0,47.48,110000.0,110000.0,5.0,1982,Hatsudai,2.0
+1K,Apartment,Matsubara,Setagaya-ku,Tokyo,62290.0,18.6,0.0,0.0,4.0,1983,Goutokuji,5.0
+4LDK,Apartment,Akatsutsumi,Setagaya-ku,Tokyo,290000.0,105.0,570000.0,0.0,1.0,1995,Goutokuji,5.0
+1K,Apartment,Motoyoyogicho,Shibuya-ku,Tokyo,73130.0,17.01,0.0,0.0,1.0,1989,Yoyogiuehara,7.0
+2LDK,Apartment,Wakabayashi,Setagaya-ku,Tokyo,284000.0,54.74,269000.0,0.0,2.0,2023,Nishitaishidou,5.0
+1K,Apartment,Miyasaka,Setagaya-ku,Tokyo,64000.0,18.25,58000.0,0.0,1.0,1991,Kyoudou,3.0
+1LDK,Apartment,Nishishinjuku,Shinjuku-ku,Tokyo,260550.0,47.48,250000.0,250000.0,36.0,2017,Nishishinjuku Go Choume,8.0
+1R,Apartment,Daita,Setagaya-ku,Tokyo,152000.0,30.0,0.0,0.0,3.0,2024,Higashimatsubara,3.0
+1LDK,Apartment,Uehara,Shibuya-ku,Tokyo,133500.0,33.33,128000.0,128000.0,5.0,1978,Higashikitazawa,5.0
+1LDK,Apartment,Matsubara,Setagaya-ku,Tokyo,137130.0,40.82,0.0,0.0,3.0,2022,Matsubara,6.0
+1K,Apartment,Miyasaka,Setagaya-ku,Tokyo,98000.0,20.7,94000.0,0.0,1.0,2015,Kyoudou,6.0
+1R,Apartment,Kinuta,Setagaya-ku,Tokyo,70500.0,16.94,0.0,0.0,1.0,2017,Soshigaya Okura,4.0
+1R,Apartment,Wakabayashi,Setagaya-ku,Tokyo,55000.0,16.73,0.0,0.0,3.0,1984,Wakabayashi,5.0
+1R,Apartment,Hatsudai,Shibuya-ku,Tokyo,109800.0,24.75,101000.0,0.0,3.0,2007,Hatsudai,5.0
+1K,Apartment,Sasazuka,Shibuya-ku,Tokyo,99660.0,19.0,0.0,86000.0,12.0,2003,Sasazuka,4.0
+1K,Apartment,Haramachida,Machida-shi,Tokyo,74000.0,23.39,0.0,34000.0,5.0,2006,Machida,10.0
+1R,Apartment,Daizawa,Setagaya-ku,Tokyo,59000.0,15.28,0.0,0.0,1.0,1969,Ikenoue,9.0
+1LDK,Apartment,Hommachi,Shibuya-ku,Tokyo,159000.0,40.6,145000.0,145000.0,11.0,2006,Hatsudai,8.0
+1R,Apartment,Kitazawa,Setagaya-ku,Tokyo,74500.0,13.46,0.0,0.0,2.0,2018,Sasazuka,7.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,287000.0,52.65,0.0,0.0,1.0,2023,Yoyogi-koen,7.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,198000.0,43.0,0.0,0.0,1.0,1971,Sangubashi,6.0
+1LDK,Apartment,Kitazawa,Setagaya-ku,Tokyo,168000.0,31.17,0.0,0.0,4.0,2024,Ikenoue,3.0
+6LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,415800.0,120.0,0.0,0.0,6.0,1971,Sangubashi,6.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,228000.0,40.13,213000.0,0.0,10.0,2002,Shinjuku,5.0
+2K,Apartment,Hatagaya,Shibuya-ku,Tokyo,173000.0,33.75,0.0,0.0,10.0,2019,Hatagaya,4.0
+1LDK,Apartment,Tomigaya,Shibuya-ku,Tokyo,287000.0,52.65,0.0,0.0,1.0,2023,Yoyogi-koen,6.0
+1K,Apartment,Sakuragaoka,Setagaya-ku,Tokyo,89540.0,20.29,0.0,0.0,1.0,2004,Chitosefunabashi,4.0
+1LDK,Apartment,Daita,Setagaya-ku,Tokyo,230000.0,53.76,220000.0,220000.0,3.0,2014,Setagaya Daita,2.0
+1R,Apartment,Matsubara,Setagaya-ku,Tokyo,94000.0,25.13,0.0,0.0,1.0,2006,Goutokuji,4.0
+1LDK,Apartment,Yoyogi,Shibuya-ku,Tokyo,195000.0,42.0,0.0,0.0,2.0,2018,Minami Shinjuku,5.0
+1R,Apartment,Nishihara,Shibuya-ku,Tokyo,75000.0,21.83,72000.0,72000.0,2.0,1967,Yoyogiuehara,7.0
+1DK,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,145000.0,39.15,0.0,0.0,1.0,1997,Yoyogi-koen,7.0
+3LDK,House,Seijo,Setagaya-ku,Tokyo,280000.0,79.71,280000.0,280000.0,,2014,Seijougakuen Mae,12.0
+1K,Apartment,Kamiyamacho,Shibuya-ku,Tokyo,130000.0,27.58,120000.0,0.0,2.0,2001,Yoyogi-koen,8.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,92000.0,26.07,82000.0,82000.0,5.0,1999,Hatsudai,4.0
+1K,Apartment,Yoyogi,Shibuya-ku,Tokyo,80000.0,21.16,75000.0,0.0,5.0,1985,Minami Shinjuku,3.0
+1K,Apartment,Uehara,Shibuya-ku,Tokyo,115000.0,23.64,110000.0,0.0,8.0,2005,Higashikitazawa,5.0
+1R,Apartment,Daita,Setagaya-ku,Tokyo,72000.0,19.76,65000.0,0.0,4.0,1991,Shindaita,2.0
+1K,Apartment,Tomigaya,Shibuya-ku,Tokyo,102000.0,27.65,95000.0,95000.0,2.0,2003,Yoyogi-hachiman,10.0
+1K,Apartment,Daita,Setagaya-ku,Tokyo,67000.0,18.63,64000.0,64000.0,2.0,1985,Setagaya Daita,4.0
+1R,Apartment,Daita,Setagaya-ku,Tokyo,65000.0,17.42,59000.0,59000.0,2.0,1986,Setagaya Daita,4.0
+1DK,Apartment,Tomigaya,Shibuya-ku,Tokyo,122000.0,31.8,112000.0,112000.0,2.0,2003,Yoyogi-hachiman,10.0
+1R,Apartment,Chitosedai,Setagaya-ku,Tokyo,46420.0,8.1,0.0,0.0,1.0,1990,Soshigaya Okura,10.0
+1R,Apartment,Kitazawa,Setagaya-ku,Tokyo,74500.0,13.46,0.0,0.0,2.0,2018,Sasazuka,7.0
+3DK,Apartment,Hirao,Inagi-shi,Tokyo,130000.0,55.0,0.0,0.0,5.0,1971,Kurihira,16.0
